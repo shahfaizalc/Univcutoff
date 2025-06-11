@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Anna University Cut Off</string>
+    <string name="action_search">Search</string>
+    <string name="no_data">No colleges match your criteria</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="search_hint">Search colleges, branches...</string>
+    <string name="filter">Filter</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="college_name">College Name</string>
+    <string name="college_code">College Code</string>
+    <string name="branch">Branch</string>
+    <string name="district">District</string>
+    <string name="year">Year</string>
+    <string name="data_type">Data Type</string>
+    <string name="cutoff">Cutoff</string>
+    <string name="rank">Rank</string>
+    <string-array name="caste_categories">
+        <item>Open Category (OC)</item>
+        <item>Backward Class (BC)</item>
+        <item>Backward Class Muslim (BCM)</item>
+        <item>Most Backward Class (MBC)</item>
+        <item>Scheduled Caste (SC)</item>
+        <item>Scheduled Caste Arunthathiyar (SCA)</item>
+    </string-array>
+
+    <string name="banner_home_footer">24693952633527796_24725361303720262</string>
+    <string name="banner_home_top">24693952633527796_24725366147053111</string>
+    <string name="banner_filter_top">24693952633527796_24725368630386196</string>
+    <string name="banner_filter_footer">24693952633527796_24725371233719269</string>
+    <string name="interstitial_full_screen">24693952633527796_24725374190385640</string>
+    <string name="interstitial_full_screen2">24693952633527796_24725376290385430</string>
+
+</resources>

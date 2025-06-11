@@ -1,0 +1,3356 @@
+[
+  {
+    "College Code": 1,
+    "College Name": "University Departments of Anna University",
+    "Address": "Chennai - CEG Campus, Sardar Patel Road, Chennai",
+    "District": "Chennai",
+    "Pincode": 600025
+  },
+  {
+    "College Code": 2,
+    "College Name": "University Departments of Anna University",
+    "Address": "Chennai - ACT Campus, Sardar Patel Road, Chennai",
+    "District": "Chennai",
+    "Pincode": 600025
+  },
+  {
+    "College Code": 4,
+    "College Name": "University Departments of Anna University",
+    "Address": "Chennai - MIT Campus, Chrompet, Tambaram Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 600044
+  },
+  {
+    "College Code": 5,
+    "College Name": "Annamalai University Faculty of Engineering and Technology",
+    "Address": "Cuddalore",
+    "District": "Cuddalore",
+    "Pincode": 608002
+  },
+  {
+    "College Code": 1013,
+    "College Name": "University College of Engineering",
+    "Address": "Villupuram, Kakuppam",
+    "District": "Villupuram",
+    "Pincode": 605103
+  },
+  {
+    "College Code": 1014,
+    "College Name": "University College of Engineering",
+    "Address": "Tindivanam, Melpakkam, Tindivanam",
+    "District": "Villupuram",
+    "Pincode": 604001
+  },
+  {
+    "College Code": 1015,
+    "College Name": "University College of Engineering",
+    "Address": "Arni, Arni to Devikapuram Road, Thatchur, Arni",
+    "District": "Thiruvannamalai",
+    "Pincode": 632326
+  },
+  {
+    "College Code": 1026,
+    "College Name": "University College of Engineering",
+    "Address": "Kancheepuram, Ponnerikarai Campus, NH4, Chennai-Bangalore Highway, Karaipettai Village & Post",
+    "District": "Kancheepuram",
+    "Pincode": 631552
+  },
+  {
+    "College Code": 1101,
+    "College Name": "Aalim Muhammed Salegh College of Engineering",
+    "Address": "Muthapudupet, Chennai",
+    "District": "Chennai",
+    "Pincode": 600055
+  },
+  {
+    "College Code": 1106,
+    "College Name": "Jaya Engineering College",
+    "Address": "Chennai",
+    "District": "Chennai",
+    "Pincode": 602024
+  },
+  {
+    "College Code": 1107,
+    "College Name": "Jaya Institute of Technology",
+    "Address": "Kanchipadi Post, Thiruvallur-Tiruttani NH Road",
+    "District": "Thiruvallur",
+    "Pincode": 631204
+  },
+  {
+    "College Code": 1110,
+    "College Name": "Prathyusha Engineering college",
+    "Address": "Aranvoyalkuppam",
+    "District": "Thiruvallur",
+    "Pincode": 602025
+  },
+  {
+    "College Code": 1112,
+    "College Name": "R M D Engineering College",
+    "Address": "Kavaraipettai, Gummidipoondi",
+    "District": "Thiruvallur",
+    "Pincode": 601206
+  },
+  {
+    "College Code": 1113,
+    "College Name": "R M K Engineering College",
+    "Address": "Kavaraipettai, Gummidipoondi",
+    "District": "Thiruvallur",
+    "Pincode": 601206
+  },
+  {
+    "College Code": 1114,
+    "College Name": "S A Engineering College",
+    "Address": "Thiruverkadu",
+    "District": "Chennai Thiruvallur",
+    "Pincode": 600077
+  },
+  {
+    "College Code": 1115,
+    "College Name": "Sri Ram Engineering College",
+    "Address": "Perumalpattu, Veppampattu (R S)",
+    "District": "Thiruvallur",
+    "Pincode": 602024
+  },
+  {
+    "College Code": 1116,
+    "College Name": "Sri Venkateswara College of Engineering and Technology",
+    "Address": "Thirupachur",
+    "District": "Thiruvallur",
+    "Pincode": 631203
+  },
+  {
+    "College Code": 1118,
+    "College Name": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous)",
+    "Address": "Chennai",
+    "District": "Avadi-Alamathi Road",
+    "Pincode": 600062
+  },
+  {
+    "College Code": 1120,
+    "College Name": "Velammal Engineering College (Autonomous)",
+    "Address": "Chennai",
+    "District": "Ambattur-Redhills Road",
+    "Pincode": 600066
+  },
+  {
+    "College Code": 1121,
+    "College Name": "Sri Venkateswara Institute of Science and Technology",
+    "Address": "Kozhundalur",
+    "District": "Thiruvallur",
+    "Pincode": 631203
+  },
+  {
+    "College Code": 1122,
+    "College Name": "Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+    "Address": "Chennai",
+    "District": "Avadi-Alamathi Road",
+    "Pincode": 600062
+  },
+  {
+    "College Code": 1123,
+    "College Name": "Gojan School of Business and Technology",
+    "Address": "Chennai",
+    "District": "Alamathi",
+    "Pincode": 600062
+  },
+  {
+    "College Code": 1124,
+    "College Name": "SAMS College of Engineering and Technology",
+    "Address": "Panappakkam, Chennai-Tirupathi Road, Uthukkottai Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601102
+  },
+  {
+    "College Code": 1125,
+    "College Name": "P M R Engineering College",
+    "Address": "Adayalampattu, Maduravoyal, Chennai",
+    "District": "Vanagaram",
+    "Pincode": 600095
+  },
+  {
+    "College Code": 1126,
+    "College Name": "J N N Institute of Engineering",
+    "Address": "Ushaa Garden, Kannigaipair Village, Uthukottai Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601102
+  },
+  {
+    "College Code": 1127,
+    "College Name": "St. Peters College of Engineering and Technology",
+    "Address": "College Road, Chennai",
+    "District": "Avadi",
+    "Pincode": 600054
+  },
+  {
+    "College Code": 1128,
+    "College Name": "R M K College of Engineering and Technology",
+    "Address": "Puduvoyal, Gummidipoondi Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601206
+  },
+  {
+    "College Code": 1131,
+    "College Name": "Vel Tech",
+    "Address": "Chennai",
+    "District": "Avadi-Alamathi Road",
+    "Pincode": 600062
+  },
+  {
+    "College Code": 1133,
+    "College Name": "Annai Veilankannis College of Engineering",
+    "Address": "Gandhi Road, Chennai",
+    "District": "Nedungundram",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1137,
+    "College Name": "Annai Mira College of Engineering and Technology",
+    "Address": "Arcot Road, Arappakkam Village, Walaja Taulk",
+    "District": "Vellore",
+    "Pincode": 632517
+  },
+  {
+    "College Code": 1140,
+    "College Name": "Jeppiaar Institute Of Technology",
+    "Address": "Kunnam Village, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 631604
+  },
+  {
+    "College Code": 1141,
+    "College Name": "R V S Padmavathy College of Engineering and Technology",
+    "Address": "Senthil Pakkam Village, Roshanagaram Post, Madarapakkam Via, Gummidipoondi Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601202
+  },
+  {
+    "College Code": 1143,
+    "College Name": "Kumaran Institute of Techonology",
+    "Address": "Kollati Village, Minjur, Ponneri Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601203
+  },
+  {
+    "College Code": 1149,
+    "College Name": "St. Josephs Institute of Technology",
+    "Address": "Jeppiaar Nagar, Chennai",
+    "District": "Old Mahabalipuram Road (OMR)",
+    "Pincode": 600119
+  },
+  {
+    "College Code": 1150,
+    "College Name": "Sri Jayaram Institute of Engineering and Technology",
+    "Address": "51 N, Elavur, 58N, Natham, Gummidipoondi Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601201
+  },
+  {
+    "College Code": 1201,
+    "College Name": "Arignar Anna Institute of Science and Technology",
+    "Address": "Pennalur, Sriperumpudur, Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1202,
+    "College Name": "D M I College of Engineering",
+    "Address": "Palanchoor, Chennai",
+    "District": "Nazrethpet",
+    "Pincode": 602103
+  },
+  {
+    "College Code": 1205,
+    "College Name": "Lord Venkateshwara Engineering College",
+    "Address": "Walajabad Post",
+    "District": "Kancheepuram",
+    "Pincode": 631605
+  },
+  {
+    "College Code": 1206,
+    "College Name": "Jeppiaar Maamallan Engineering College",
+    "Address": "Vadamangalam Post",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1207,
+    "College Name": "Kings Engineering College",
+    "Address": "Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1209,
+    "College Name": "Pallavan College of Engineering",
+    "Address": "Thimmasamudram",
+    "District": "Kancheepuram",
+    "Pincode": 631502
+  },
+  {
+    "College Code": 1210,
+    "College Name": "Panimalar Engineering College",
+    "Address": "Nazarethpet, Chennai",
+    "District": "Poonamallee",
+    "Pincode": 602103
+  },
+  {
+    "College Code": 1211,
+    "College Name": "Rajalakshmi Engineering College (Autonomous)",
+    "Address": "Thandalam, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1212,
+    "College Name": "Rajiv Gandhi College of Engineering",
+    "Address": "Nemili, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1213,
+    "College Name": "S K R Engineering College",
+    "Address": "Chennai",
+    "District": "Poonamallee",
+    "Pincode": 600123
+  },
+  {
+    "College Code": 1214,
+    "College Name": "Sakthi Mariamman Engineering College",
+    "Address": "Narayanasamy Nagar, Chennai",
+    "District": "Thandalam",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1216,
+    "College Name": "Saveetha Engineering College (Autonomous)",
+    "Address": "Thandalam, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1217,
+    "College Name": "Sree Sastha Institute of Engineering and Technology",
+    "Address": "Chennai",
+    "District": "Chembarambakkam",
+    "Pincode": 600123
+  },
+  {
+    "College Code": 1218,
+    "College Name": "Sri Muthukumaran Institute of Technology",
+    "Address": "Chennai",
+    "District": "Near Mangadu",
+    "Pincode": 600069
+  },
+  {
+    "College Code": 1219,
+    "College Name": "Sri Venkateswara College of Engineering (Autonomous)",
+    "Address": "Post Bag No.1, Chennai-Bengaluru High Road, Pennalur, Irungattukottai S.O., Sriperumbudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602117
+  },
+  {
+    "College Code": 1221,
+    "College Name": "Jaya College of Engineering and Technology",
+    "Address": "Parivakkam, Chennai",
+    "District": "Poonamallee",
+    "Pincode": 600056
+  },
+  {
+    "College Code": 1222,
+    "College Name": "P B College of Engineering",
+    "Address": "Irungkattukottai, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1225,
+    "College Name": "Loyola Institute of Technology",
+    "Address": "Mevaloorkuppam, B Village, Palanchoor, Chennai",
+    "District": "Nazarethpet Post",
+    "Pincode": 600123
+  },
+  {
+    "College Code": 1226,
+    "College Name": "P T Lee Chengalvaraya Naicker College of Engineering and Technology",
+    "Address": "Oovery, Veliyur Post",
+    "District": "Kancheepuram",
+    "Pincode": 631502
+  },
+  {
+    "College Code": 1228,
+    "College Name": "Alpha College of Engineering",
+    "Address": "Dr. Grace George Nagar, Udayavar Koil Street, Thirumazhisai, Chennai",
+    "District": "Poonamalle",
+    "Pincode": 602107
+  },
+  {
+    "College Code": 1229,
+    "College Name": "Indira Institute of Engineering and Technology",
+    "Address": "VGR Gardens, Pandur",
+    "District": "Thiruvallur",
+    "Pincode": 631203
+  },
+  {
+    "College Code": 1230,
+    "College Name": "Apollo Engineering College",
+    "Address": "Mevaloorkuppam, Valarpuram Post, Sriperumpudur",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1231,
+    "College Name": "Panimalar Institute of Technology",
+    "Address": "Nazarethpet, Chennai",
+    "District": "Poonamallee",
+    "Pincode": 602103
+  },
+  {
+    "College Code": 1232,
+    "College Name": "A R M College of Engineering and Technology",
+    "Address": "Sattamangalam, Maraimalainagar",
+    "District": "Chengalpattu",
+    "Pincode": 603209
+  },
+  {
+    "College Code": 1233,
+    "College Name": "Adhi College of Engineering and Technology",
+    "Address": "Pazhayaseevaram, Madura Sankarapuram Village",
+    "District": "Kancheepuram",
+    "Pincode": 631605
+  },
+  {
+    "College Code": 1234,
+    "College Name": "Indira Gandhi College of Engineering and Technology for Women",
+    "Address": "Chengalpattu-Kancheepuram High Road",
+    "District": "Chengalpattu",
+    "Pincode": 603101
+  },
+  {
+    "College Code": 1235,
+    "College Name": "JEI Mathaajee College of Engineering",
+    "Address": "Vishakandikupam Village",
+    "District": "Kancheepuram",
+    "Pincode": 631552
+  },
+  {
+    "College Code": 1237,
+    "College Name": "Velammal Institute of Technology",
+    "Address": "Chennai-Kolkatta Highway, Panchetti Village, Ponneri Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601204
+  },
+  {
+    "College Code": 1238,
+    "College Name": "GRT Institute of Engineering and Technology",
+    "Address": "GRT Mahalakshmi Nagar, Chennai-Tirupathi Highway, Tiruttani Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 631209
+  },
+  {
+    "College Code": 1241,
+    "College Name": "T J S Engineering College",
+    "Address": "Peruvoyal, Near Kavaraipettai, Gummidipoondi Taluk",
+    "District": "Thiruvallur",
+    "Pincode": 601206
+  },
+  {
+    "College Code": 1243,
+    "College Name": "Madha Institute of Engineering and Technology",
+    "Address": "Erandamkattalai Village, Sadhananthapuram, Chennai",
+    "District": "Thandalam Post",
+    "Pincode": 602101
+  },
+  {
+    "College Code": 1301,
+    "College Name": "Mohamed Sathak A J College of Engineering",
+    "Address": "Old Mahabalipuram Road (OMR), Egattur",
+    "District": "Chengalpattu",
+    "Pincode": 603103
+  },
+  {
+    "College Code": 1303,
+    "College Name": "Anand Institute of Higher Technology",
+    "Address": "Old Mahabalipuram Road (OMR), Kazhipattur",
+    "District": "Chengalpattu",
+    "Pincode": 603103
+  },
+  {
+    "College Code": 1304,
+    "College Name": "Easwari Engineering College (Autonomous)",
+    "Address": "Chennai",
+    "District": "Ramapuram",
+    "Pincode": 600089
+  },
+  {
+    "College Code": 1306,
+    "College Name": "Jeppiar Engineering College",
+    "Address": "Chennai",
+    "District": "Old Mahabalipuram Road (OMR)",
+    "Pincode": 600119
+  },
+  {
+    "College Code": 1307,
+    "College Name": "Jerusalem College of Engineering (Autonomous)",
+    "Address": "Narayanapuram, Chennai",
+    "District": "Pallikaranai",
+    "Pincode": 600100
+  },
+  {
+    "College Code": 1309,
+    "College Name": "Meenakshi Sundararajan Engineering College",
+    "Address": "Chennai",
+    "District": "Kodambakkam",
+    "Pincode": 600024
+  },
+  {
+    "College Code": 1310,
+    "College Name": "Misrimal Navajee Munoth Jain Engineering College",
+    "Address": "Rajiv Gandhi Salai (OMR), Chennai",
+    "District": "Thorappakkam",
+    "Pincode": 600096
+  },
+  {
+    "College Code": 1311,
+    "College Name": "K C G College of Technology",
+    "Address": "Chennai",
+    "District": "Karappakkam",
+    "Pincode": 600096
+  },
+  {
+    "College Code": 1313,
+    "College Name": "SMK Fomra Institute of Technology",
+    "Address": "Fomra Nagar, OMR, (IT Express Highway), Chennai-",
+    "District": "Kelambakkam",
+    "Pincode": 603103
+  },
+  {
+    "College Code": 1315,
+    "College Name": "Sri Sivasubramaniya Nadar College of Engineering (Autonomous)",
+    "Address": "Kalavakkam, Old Mahabalipuram Road (OMR)",
+    "District": "Chengalpattu",
+    "Pincode": 603110
+  },
+  {
+    "College Code": 1316,
+    "College Name": "Agni College of Technology",
+    "Address": "Old Mahabalipuram Road (OMR), Thalambur Village",
+    "District": "Chengalpattu",
+    "Pincode": 603103
+  },
+  {
+    "College Code": 1317,
+    "College Name": "St. Joseph’s College of Engineering",
+    "Address": "Chennai",
+    "District": "Old Mahabalipuram Road (OMR)",
+    "Pincode": 600119
+  },
+  {
+    "College Code": 1319,
+    "College Name": "Thangavelu Engineering College",
+    "Address": "Chennai",
+    "District": "Karappakkam",
+    "Pincode": 600097
+  },
+  {
+    "College Code": 1320,
+    "College Name": "Jeppiaar SRR Engineering College",
+    "Address": "Old Mahabalipuram Road",
+    "District": "Chengalpattu",
+    "Pincode": 603103
+  },
+  {
+    "College Code": 1321,
+    "College Name": "Central Institute of Plastics Engineering and Technology (CIPET)",
+    "Address": "Chennai",
+    "District": "Guindy",
+    "Pincode": 600032
+  },
+  {
+    "College Code": 1322,
+    "College Name": "Dhanalakshmi Srinivasan College of Engineering and Technology",
+    "Address": "East Coast Road, Chennai",
+    "District": "Poonjeri",
+    "Pincode": 603104
+  },
+  {
+    "College Code": 1323,
+    "College Name": "A C T College of Engineering and Technology",
+    "Address": "Nelvoy Village, Pukkathurai Post, Maduranthagam",
+    "District": "Chengalpattu",
+    "Pincode": 603107
+  },
+  {
+    "College Code": 1324,
+    "College Name": "Sri Sai Ram Institute of Technology",
+    "Address": "Chennai",
+    "District": "West Tambaram",
+    "Pincode": 600044
+  },
+  {
+    "College Code": 1325,
+    "College Name": "St. Joseph College of Engineering",
+    "Address": "Trinity Campus, Nemili, Sriperumpudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1333,
+    "College Name": "Vi Institute of Technology",
+    "Address": "Sirunkundram Village & Post, Chengalput Taluk",
+    "District": "Chengalpattu",
+    "Pincode": 603108
+  },
+  {
+    "College Code": 1334,
+    "College Name": "ARS College of Engineering",
+    "Address": "Maraimalai Nagar Post",
+    "District": "Chengalpattu",
+    "Pincode": 603209
+  },
+  {
+    "College Code": 1335,
+    "College Name": "Sri Krishna Institute of Technology",
+    "Address": "Panapakkam, Chennai",
+    "District": "Padappai",
+    "Pincode": 601301
+  },
+  {
+    "College Code": 1399,
+    "College Name": "Chennai Institute of Technology",
+    "Address": "Puduper Village, Nandambakkam Post, Chennai",
+    "District": "Kundrathur",
+    "Pincode": 600069
+  },
+  {
+    "College Code": 1401,
+    "College Name": "Adhiparasakthi Engineering College",
+    "Address": "Melmaruvathur",
+    "District": "Chengalpattu",
+    "Pincode": 603319
+  },
+  {
+    "College Code": 1402,
+    "College Name": "Annai Terasa College of Engineering",
+    "Address": "Thirunavalur",
+    "District": "Kallakurichi",
+    "Pincode": 607204
+  },
+  {
+    "College Code": 1405,
+    "College Name": "Dhanalakshmi College of Engineering",
+    "Address": "Chennai",
+    "District": "Manimangalam",
+    "Pincode": 601301
+  },
+  {
+    "College Code": 1406,
+    "College Name": "Dr. Pauls Engineering College",
+    "Address": "Pauls Nagar, Pulichapallam Village, Vanur Taluk",
+    "District": "Villupuram",
+    "Pincode": 605109
+  },
+  {
+    "College Code": 1407,
+    "College Name": "G K M College of Engineering and Technology",
+    "Address": "Chennai",
+    "District": "Alappakkam-Mappedu Road",
+    "Pincode": 600063
+  },
+  {
+    "College Code": 1408,
+    "College Name": "I F E T College of Engineering (Autonomous)",
+    "Address": "Gangarampalayam",
+    "District": "Villupuram",
+    "Pincode": 605108
+  },
+  {
+    "College Code": 1409,
+    "College Name": "Karpagavinayaga College of Engineering and Technology",
+    "Address": "Palayanoor Post, Maduranthagam Taluk",
+    "District": "Chengalpattu",
+    "Pincode": 603308
+  },
+  {
+    "College Code": 1411,
+    "College Name": "Madha Engineering College",
+    "Address": "Chennai",
+    "District": "Kundrathur",
+    "Pincode": 600069
+  },
+  {
+    "College Code": 1412,
+    "College Name": "Mailam Engineering College",
+    "Address": "Mailam",
+    "District": "Villupuram",
+    "Pincode": 604304
+  },
+  {
+    "College Code": 1413,
+    "College Name": "Sri Venkateswaraa College Of Technology",
+    "Address": "BHB Nagar, Vadakkal Village, Pondur Post, Sriperumbudur Taluk",
+    "District": "Kancheepuram",
+    "Pincode": 602105
+  },
+  {
+    "College Code": 1414,
+    "College Name": "Prince Shri Venkateshwara Padmavathy Enginering College",
+    "Address": "Chennai",
+    "District": "Ponmar",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1415,
+    "College Name": "T S M Jain College of Technology",
+    "Address": "Melur Village, Kallakurichi",
+    "District": "Kallakurichi",
+    "Pincode": 606201
+  },
+  {
+    "College Code": 1416,
+    "College Name": "Jaya Sakthi Engineering College",
+    "Address": "Chennai",
+    "District": "Thirunindravur",
+    "Pincode": 602024
+  },
+  {
+    "College Code": 1417,
+    "College Name": "Shri Andal Alagar College of Engineering",
+    "Address": "Mamandur",
+    "District": "Chengalpattu",
+    "Pincode": 603111
+  },
+  {
+    "College Code": 1419,
+    "College Name": "Sri Sairam Enginering College",
+    "Address": "Chennai",
+    "District": "West Tambaram",
+    "Pincode": 600044
+  },
+  {
+    "College Code": 1420,
+    "College Name": "Tagore Engineering College",
+    "Address": "Rathnamangalam, Chennai",
+    "District": "Vandalur Post",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1421,
+    "College Name": "V R S College of Engineering and Technology",
+    "Address": "Arasur",
+    "District": "Kallakurichi",
+    "Pincode": 607107
+  },
+  {
+    "College Code": 1422,
+    "College Name": "SRM Valliammai Engineering College (Autonomous)",
+    "Address": "Chennai",
+    "District": "Kattankulathur",
+    "Pincode": 603203
+  },
+  {
+    "College Code": 1424,
+    "College Name": "Dhaanish Ahmed College of Engineering",
+    "Address": "Chennai",
+    "District": "Padappai",
+    "Pincode": 601301
+  },
+  {
+    "College Code": 1426,
+    "College Name": "Sri Ramanujar Engineering College",
+    "Address": "Vandalur, Chennai",
+    "District": "Kolappakkam",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1427,
+    "College Name": "Sri Krishna Engineering College",
+    "Address": "Panappakkam, Chennai",
+    "District": "Padappai",
+    "Pincode": 601301
+  },
+  {
+    "College Code": 1428,
+    "College Name": "E S Engineering College",
+    "Address": "Chennai Trunk Road, Ayyankoilpattu",
+    "District": "Villupuram",
+    "Pincode": 605602
+  },
+  {
+    "College Code": 1430,
+    "College Name": "Maha Bharathi Engineering College",
+    "Address": "A Vasudevanur, Chinnasalem, Kallakurichi Taluk",
+    "District": "Kallakurichi",
+    "Pincode": 606201
+  },
+  {
+    "College Code": 1431,
+    "College Name": "New Prince Shri Bhavani College of Engineering and Technology",
+    "Address": "Vengaivasal Main Road, Chennai",
+    "District": "Gowriwakkam",
+    "Pincode": 600073
+  },
+  {
+    "College Code": 1432,
+    "College Name": "Rajalakshmi Institute of Technology",
+    "Address": "Irulapalayam, Kuthampakkam Post",
+    "District": "Thiruvallur",
+    "Pincode": 602107
+  },
+  {
+    "College Code": 1434,
+    "College Name": "Surya Group of Institutions",
+    "Address": "GST Road, Vikravandi Village",
+    "District": "Villupuram",
+    "Pincode": 605652
+  },
+  {
+    "College Code": 1435,
+    "College Name": "Balaji Institute of Engineering and Technology",
+    "Address": "Thandalam Village, Thiruporur",
+    "District": "Chengalpattu",
+    "Pincode": 603110
+  },
+  {
+    "College Code": 1436,
+    "College Name": "A R Engineering College",
+    "Address": "Vadakuchipalayam, Kappiyampuliyur Post",
+    "District": "Villupuram",
+    "Pincode": 605601
+  },
+  {
+    "College Code": 1437,
+    "College Name": "Rrase College of Engineering",
+    "Address": "Chennai",
+    "District": "Padappai",
+    "Pincode": 601301
+  },
+  {
+    "College Code": 1438,
+    "College Name": "Sree Krishna College of Engineering",
+    "Address": "Anaicut Post, Unnai Village",
+    "District": "Vellore",
+    "Pincode": 632101
+  },
+  {
+    "College Code": 1439,
+    "College Name": "S R I College of Engineering and Technology",
+    "Address": "Birudur, Vandavasi Taluk",
+    "District": "Thiruvannamalai",
+    "Pincode": 604408
+  },
+  {
+    "College Code": 1441,
+    "College Name": "A K T Memorial College of Engineering and Technology",
+    "Address": "Neelamangalam Village, Kallakurichi Post & Taluk",
+    "District": "Kallakurichi",
+    "Pincode": 606202
+  },
+  {
+    "College Code": 1442,
+    "College Name": "Prince Dr. K Vasudevan College of Engineering and Technology",
+    "Address": "Medavakkam-Mambakkam Road, Chennai",
+    "District": "Ponmar",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1444,
+    "College Name": "Chendu College of Engineering & Technology",
+    "Address": "Zamin Endathur Village, Madurantakam Taluk",
+    "District": "Chengalpattu",
+    "Pincode": 603331
+  },
+  {
+    "College Code": 1445,
+    "College Name": "Sri Rangapoopathi College of Engineering",
+    "Address": "Alampoondi Village, Gingee",
+    "District": "Villupuram",
+    "Pincode": 604151
+  },
+  {
+    "College Code": 1447,
+    "College Name": "Jawahar Engineering College",
+    "Address": "Kaveri Rangan Nagar, Chennai",
+    "District": "Saligramam",
+    "Pincode": 600093
+  },
+  {
+    "College Code": 1449,
+    "College Name": "Saraswathy College of Engineering and Technology",
+    "Address": "NH-45, Main Road, Olakkur, Tindivanam Taluk",
+    "District": "Villupuram",
+    "Pincode": 604307
+  },
+  {
+    "College Code": 1450,
+    "College Name": "Loyola-ICAM College of Engineering and Technology",
+    "Address": "Loyola College Campus, Chennai",
+    "District": "Nungambakkam",
+    "Pincode": 600034
+  },
+  {
+    "College Code": 1452,
+    "College Name": "PERI Institute of Technology",
+    "Address": "Mannivakkam, Chennai",
+    "District": "West Tambaram",
+    "Pincode": 600048
+  },
+  {
+    "College Code": 1501,
+    "College Name": "Adhiparasakthi College of Engineering",
+    "Address": "Kalavai",
+    "District": "Vellore",
+    "Pincode": 632506
+  },
+  {
+    "College Code": 1503,
+    "College Name": "Arulmigu Meenakshi Amman College of Engineering",
+    "Address": "Vadamavandal",
+    "District": "Thiruvannamalai",
+    "Pincode": 604410
+  },
+  {
+    "College Code": 1504,
+    "College Name": "Arunai Engineering College",
+    "Address": "Mathur",
+    "District": "Thiruvannamalai",
+    "Pincode": 606603
+  },
+  {
+    "College Code": 1505,
+    "College Name": "C Abdul Hakeem College of Engineering and Technology",
+    "Address": "Melvisharam",
+    "District": "Vellore",
+    "Pincode": 632509
+  },
+  {
+    "College Code": 1506,
+    "College Name": "G G R College of Engineering",
+    "Address": "Pillayarkuppam, Perumugai Post",
+    "District": "Vellore",
+    "Pincode": 632009
+  },
+  {
+    "College Code": 1507,
+    "College Name": "Ganadipathy Tulsi’s Jain Engineering College",
+    "Address": "Kaniyambadi",
+    "District": "Vellore",
+    "Pincode": 632102
+  },
+  {
+    "College Code": 1508,
+    "College Name": "Arunai College of Engineering",
+    "Address": "Mathur",
+    "District": "Thiruvannamalai",
+    "Pincode": 606603
+  },
+  {
+    "College Code": 1509,
+    "College Name": "Meenakshi College of Engineering",
+    "Address": "Vembuliamman Koil Street, Chennai",
+    "District": "K K Nagar (West)",
+    "Pincode": 600078
+  },
+  {
+    "College Code": 1510,
+    "College Name": "Priyadarshini Engineering College",
+    "Address": "Vaniyambadi Post",
+    "District": "Thirupattur",
+    "Pincode": 635751
+  },
+  {
+    "College Code": 1511,
+    "College Name": "Ranippettai Engineering College",
+    "Address": "Thenkadappanthangal",
+    "District": "Vellore",
+    "Pincode": 632513
+  },
+  {
+    "College Code": 1512,
+    "College Name": "S K P Engineering College",
+    "District": "Thiruvannamalai",
+    "Pincode": 606611
+  },
+  {
+    "College Code": 1513,
+    "College Name": "Sri Balaji Chockalingam Engineering College",
+    "Address": "Arni",
+    "District": "Thiruvannamalai",
+    "Pincode": 632317
+  },
+  {
+    "College Code": 1514,
+    "College Name": "Sri Nandhanam College of Engineering and Technology",
+    "Address": "Tiruppattur",
+    "District": "Tiruppattur",
+    "Pincode": 635601
+  },
+  {
+    "College Code": 1515,
+    "College Name": "Saraswathi Velu College of Engineering",
+    "Address": "Melvenkatapuram Village, Sholingur",
+    "District": "Vellore",
+    "Pincode": 631102
+  },
+  {
+    "College Code": 1516,
+    "College Name": "Thanthai Periyar Government Institute of Technology",
+    "Address": "Bagayam",
+    "District": "Vellore",
+    "Pincode": 632002
+  },
+  {
+    "College Code": 1517,
+    "College Name": "Thirumalai Engineering College",
+    "Address": "Kilambi",
+    "District": "Kancheepuram",
+    "Pincode": 631551
+  },
+  {
+    "College Code": 1518,
+    "College Name": "Thiruvalluvar College of Engineering and Technology",
+    "Address": "Vandavasi",
+    "District": "Thiruvannamalai",
+    "Pincode": 604505
+  },
+  {
+    "College Code": 1519,
+    "College Name": "Bharathidasan Engineering College",
+    "Address": "Nattrampalli Post",
+    "District": "Tiruppattur",
+    "Pincode": 635854
+  },
+  {
+    "College Code": 1520,
+    "College Name": "Kingston Engineering College",
+    "Address": "Chithoor Main Road, Christianpet Village, Katpadi Taluk",
+    "District": "Vellore",
+    "Pincode": 632059
+  },
+  {
+    "College Code": 1521,
+    "College Name": "Sri Sapthagiri Institute of Technology",
+    "Address": "Ocheri, Arakonam Taluk",
+    "District": "Vellore",
+    "Pincode": 632531
+  },
+  {
+    "College Code": 1523,
+    "College Name": "Global Institute of Engineering and Technology",
+    "Address": "Bangalore-Chennai Highway, Melvisharam, Walajah Taluk",
+    "District": "Vellore",
+    "Pincode": 632506
+  },
+  {
+    "College Code": 1524,
+    "College Name": "Annamalaiar College of Engineering",
+    "Address": "Modaiyur Village, Polur Taluk",
+    "District": "Thiruvannamalai",
+    "Pincode": 606902
+  },
+  {
+    "College Code": 1525,
+    "College Name": "Podhigai College of Engineering and Technology",
+    "Address": "Vinayakapuram, Adiyur Post, Tirupattur Taluk",
+    "District": "Tiruppattur",
+    "Pincode": 635601
+  },
+  {
+    "College Code": 1526,
+    "College Name": "Sri Krishna College of Engineering",
+    "Address": "Tiruttani High Road, Arakkonam",
+    "District": "Vellore",
+    "Pincode": 631003
+  },
+  {
+    "College Code": 1529,
+    "College Name": "Oxford College of Engineering",
+    "Address": "Venmani Village, Karaipoondi Post, Polur Taluk",
+    "District": "Thiruvannamalai",
+    "Pincode": 606803
+  },
+  {
+    "College Code": 1605,
+    "College Name": "Idhaya Engineering College for Women",
+    "Address": "Chinnasalem",
+    "District": "Kallakurichi",
+    "Pincode": 606201
+  },
+  {
+    "College Code": 2005,
+    "College Name": "Government College of Technology (Autonomous)",
+    "Address": "Thadagam Road",
+    "District": "Coimbatore",
+    "Pincode": 641013
+  },
+  {
+    "College Code": 2006,
+    "College Name": "PSG College of Technology (Autonomous)",
+    "Address": "Peelamedu",
+    "District": "Coimbatore",
+    "Pincode": 641004
+  },
+  {
+    "College Code": 2007,
+    "College Name": "Coimbatore Institute of Technology (Autonomous)",
+    "Address": "Civil Aerodrome Post",
+    "District": "Coimbatore",
+    "Pincode": 641014
+  },
+  {
+    "College Code": 2025,
+    "College Name": "Anna University Regional Campus - Coimbatore",
+    "Address": "Maruthamalai Main Road, Navavoor Bharathiyar University Post, Somayampalayam",
+    "District": "Coimbatore",
+    "Pincode": 641046
+  },
+  {
+    "College Code": 2302,
+    "College Name": "Sri Shanmugha College of Engineering and Technology",
+    "Address": "Morur Bit II Village",
+    "District": "Salem",
+    "Pincode": 637302
+  },
+  {
+    "College Code": 2314,
+    "College Name": "Muthayammal College of Engineering",
+    "Address": "Kakkaveri Post",
+    "District": "Namakkal",
+    "Pincode": 637408
+  },
+  {
+    "College Code": 2327,
+    "College Name": "N S N College of Engineering and Technology",
+    "Address": "Karur-Madurai NH7, Manalmedu",
+    "District": "Karur",
+    "Pincode": 639003
+  },
+  {
+    "College Code": 2328,
+    "College Name": "K S R Institute for Engineering and Technology",
+    "Address": "Thokkavadi",
+    "District": "Namakkal",
+    "Pincode": 637215
+  },
+  {
+    "College Code": 2329,
+    "College Name": "Rathinam Technical Campus",
+    "Address": "Pollachi Road, Eachanari",
+    "District": "Coimbatore",
+    "Pincode": 641021
+  },
+  {
+    "College Code": 2332,
+    "College Name": "Aishwarya College of Engineering and Technology",
+    "Address": "Errattaikaradu Paruvachi Post, Anthiyur (Via), Bhavani Taluk",
+    "District": "Erode",
+    "Pincode": 638312
+  },
+  {
+    "College Code": 2338,
+    "College Name": "Asian College of Engineering and Technology",
+    "Address": "Asian College Road, Kondayampalayam, Near Saravanampatti",
+    "District": "Coimbatore",
+    "Pincode": 641110
+  },
+  {
+    "College Code": 2341,
+    "College Name": "Ganesh College of Engineering",
+    "Address": "Attur Main Road, Mettupatti",
+    "District": "Salem",
+    "Pincode": 636111
+  },
+  {
+    "College Code": 2342,
+    "College Name": "Sri Ranganathar Institute of Engineering and Technology",
+    "Address": "Thudialur-Kovilpalay Road",
+    "District": "Coimbatore",
+    "Pincode": 641110
+  },
+  {
+    "College Code": 2343,
+    "College Name": "Indian Institute of Handloom Technology",
+    "Address": "Foulke's Compound, Thillai Nagar",
+    "District": "Salem",
+    "Pincode": 636001
+  },
+  {
+    "College Code": 2345,
+    "College Name": "Dhirajlal Gandhi College of Technology",
+    "Address": "Sikkanampatty, (Opp. to Airport), Omalur Taluk",
+    "District": "Salem",
+    "Pincode": 636309
+  },
+  {
+    "College Code": 2346,
+    "College Name": "Shree Sathyam College of Engineering and Technology",
+    "Address": "NH-47, Manjakkalpatti, Kuppanur Post, Sankari Taluk",
+    "District": "Salem",
+    "Pincode": 637301
+  },
+  {
+    "College Code": 2347,
+    "College Name": "AVS College of Technology",
+    "Address": "Attur Main Road, Near AVS College of Arts & Science, Chinnagoundapuram",
+    "District": "Salem",
+    "Pincode": 636106
+  },
+  {
+    "College Code": 2349,
+    "College Name": "Dhaanish Ahmed Institute of Technology",
+    "Address": "Pichanur Post, (Near K G Chavadi)",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2350,
+    "College Name": "Jairupaa College of Engineering",
+    "Address": "Thottiapalayam, Kathankanni Post, Kangayam",
+    "District": "Tiruppur",
+    "Pincode": 641604
+  },
+  {
+    "College Code": 2354,
+    "College Name": "Pollachi Institute of Engineering and Technology",
+    "Address": "Main Road, Poosaripatti, Pollachi Taluk",
+    "District": "Coimbatore",
+    "Pincode": 642205
+  },
+  {
+    "College Code": 2355,
+    "College Name": "Cheran College of Engineering",
+    "Address": "Karur-Coimbatore Main Road, NH-67, K.Paramathi Post, Aravakurichi Taluk",
+    "District": "Karur",
+    "Pincode": 639111
+  },
+  {
+    "College Code": 2356,
+    "College Name": "Arulmurugan College of Engineering",
+    "Address": "Karvazhi Road, Thennilai Post",
+    "District": "Karur",
+    "Pincode": 639206
+  },
+  {
+    "College Code": 2357,
+    "College Name": "V S B College of Engineering Technical Campus",
+    "Address": "Ealur Pirivu, Solavampalayam Post",
+    "District": "Coimbatore",
+    "Pincode": 642109
+  },
+  {
+    "College Code": 2358,
+    "College Name": "SCAD Institute of Technology",
+    "Address": "Anupatti, Pollachi-Palladam Highways, Palladam",
+    "District": "Tiruppur",
+    "Pincode": 641664
+  },
+  {
+    "College Code": 2360,
+    "College Name": "Suguna College of Engineering",
+    "Address": "Kalappatti Road, Civil Aerodrome Post",
+    "District": "Coimbatore",
+    "Pincode": 641014
+  },
+  {
+    "College Code": 2367,
+    "College Name": "Arjun College of Technology",
+    "Address": "Chettiyakkapalayam, Kinathukadavu",
+    "District": "Coimbatore",
+    "Pincode": 642120
+  },
+  {
+    "College Code": 2369,
+    "College Name": "Government College of Engineering",
+    "Address": "Chettikkarai Post",
+    "District": "Dharmapuri",
+    "Pincode": 635704
+  },
+  {
+    "College Code": 2377,
+    "College Name": "PSG Institute of Technology and Applied Research",
+    "Address": "Avinashi Road, Coimbatore",
+    "District": "Neelambur",
+    "Pincode": 641062
+  },
+  {
+    "College Code": 2601,
+    "College Name": "Adhiyamaan College of Engineering (Autonomous)",
+    "Address": "Hosur",
+    "District": "Krishnagiri",
+    "Pincode": 635109
+  },
+  {
+    "College Code": 2602,
+    "College Name": "Annai Mathammal Sheela Enginereing College",
+    "Address": "Erumapatty Post",
+    "District": "Namakkal",
+    "Pincode": 637013
+  },
+  {
+    "College Code": 2603,
+    "College Name": "Government College of Engineering (Autonomous)",
+    "Address": "Bargur",
+    "District": "Krishnagiri",
+    "Pincode": 635104
+  },
+  {
+    "College Code": 2606,
+    "College Name": "Jayam College of Engineering and Technology",
+    "Address": "Nallanur Post",
+    "District": "Dharmapuri",
+    "Pincode": 636813
+  },
+  {
+    "College Code": 2607,
+    "College Name": "K S Rangasamy College of Technology (Autonomous)",
+    "Address": "Tiruchengode",
+    "District": "Namakkal",
+    "Pincode": 637215
+  },
+  {
+    "College Code": 2608,
+    "College Name": "M Kumarasamy College of Engineering (Autonomous)",
+    "Address": "Thalavapalayam",
+    "District": "Karur",
+    "Pincode": 639113
+  },
+  {
+    "College Code": 2609,
+    "College Name": "Mahendra Engineering College (Autonomous)",
+    "Address": "Mahendhirapuri, Mallasamudram",
+    "District": "Namakkal",
+    "Pincode": 637503
+  },
+  {
+    "College Code": 2610,
+    "College Name": "Muthayammal Engineering College (Autonomous)",
+    "Address": "Rasipuram",
+    "District": "Namakkal",
+    "Pincode": 637408
+  },
+  {
+    "College Code": 2611,
+    "College Name": "Paavai Engineering College (Autonomous)",
+    "Address": "NH-7, Pachal Post",
+    "District": "Namakkal",
+    "Pincode": 637018
+  },
+  {
+    "College Code": 2612,
+    "College Name": "P G P College of Engineering and Technology",
+    "Address": "Paramathi Post",
+    "District": "Namakkal",
+    "Pincode": 637207
+  },
+  {
+    "College Code": 2613,
+    "College Name": "K S R College of Engineering (Autonomous)",
+    "Address": "Tiruchengode",
+    "District": "Namakkal",
+    "Pincode": 637215
+  },
+  {
+    "College Code": 2614,
+    "College Name": "S S M College of Engineering",
+    "Address": "Komarapalayam",
+    "District": "Namakkal",
+    "Pincode": 638183
+  },
+  {
+    "College Code": 2615,
+    "College Name": "Government College of Engineering (Autonomous)",
+    "Address": "Karuppur",
+    "District": "Salem",
+    "Pincode": 636011
+  },
+  {
+    "College Code": 2616,
+    "College Name": "Sapthagiri College of Engineering",
+    "Address": "Periyanahalli Post",
+    "District": "Dharmapuri",
+    "Pincode": 635205
+  },
+  {
+    "College Code": 2617,
+    "College Name": "Sengunthar Engineering College (Autonomous)",
+    "Address": "Tiruchengode",
+    "District": "Namakkal",
+    "Pincode": 637205
+  },
+  {
+    "College Code": 2618,
+    "College Name": "Sona College of Technology (Autonomous)",
+    "Address": "Suramangalam Post",
+    "District": "Salem",
+    "Pincode": 636005
+  },
+  {
+    "College Code": 2620,
+    "College Name": "Vivekanandha College of Engineering for Women (Autonomous)",
+    "Address": "Sathinaickenpalayam, Elayampalayam Village, Kumaramangalam",
+    "District": "Namakkal",
+    "Pincode": 637205
+  },
+  {
+    "College Code": 2621,
+    "College Name": "Er. Perumal Manimekalai College of Engineering",
+    "Address": "Near Koneripalli, Hosur",
+    "District": "Krishnagiri",
+    "Pincode": 635117
+  },
+  {
+    "College Code": 2622,
+    "College Name": "V S B Engineering College",
+    "Address": "Kovai Road",
+    "District": "Karur",
+    "Pincode": 639111
+  },
+  {
+    "College Code": 2623,
+    "College Name": "Mahendra College of Engineering",
+    "Address": "Attur Road, Minnampalli, Valapady",
+    "District": "Salem",
+    "Pincode": 636106
+  },
+  {
+    "College Code": 2624,
+    "College Name": "Gnanamani College of Technology",
+    "Address": "Pachal Post",
+    "District": "Namakkal",
+    "Pincode": 637018
+  },
+  {
+    "College Code": 2625,
+    "College Name": "The Kavery Engineering College",
+    "Address": "M Kalipatti Post, Mecheri",
+    "District": "Salem",
+    "Pincode": 634453
+  },
+  {
+    "College Code": 2627,
+    "College Name": "Selvam College of Technology",
+    "Address": "Pappanaickenpatti Post",
+    "District": "Namakkal",
+    "Pincode": 637003
+  },
+  {
+    "College Code": 2628,
+    "College Name": "Paavai College of Engineering",
+    "Address": "NH-7, Pachal Post",
+    "District": "Namakkal",
+    "Pincode": 637018
+  },
+  {
+    "College Code": 2629,
+    "College Name": "Sengunthar College of Engineering",
+    "Address": "Tiruchengode",
+    "District": "Namakkal",
+    "Pincode": 637205
+  },
+  {
+    "College Code": 2630,
+    "College Name": "Chettinad College of Engineering and Technology",
+    "Address": "NH-67, Trichy Main Road, Puliyur C F",
+    "District": "Karur",
+    "Pincode": 639114
+  },
+  {
+    "College Code": 2631,
+    "College Name": "King College of Technology",
+    "Address": "Nallur, N Pudupatty Post",
+    "District": "Namakkal",
+    "Pincode": 637020
+  },
+  {
+    "College Code": 2632,
+    "College Name": "Mahendra Institute of Technology",
+    "Address": "Mahendhirapuri, Mallasamudram",
+    "District": "Namakkal",
+    "Pincode": 637503
+  },
+  {
+    "College Code": 2633,
+    "College Name": "Vidyaa Vikas College of Engineering and Technology",
+    "Address": "Varahoorampatti, Tiruchengode",
+    "District": "Namakkal",
+    "Pincode": 637214
+  },
+  {
+    "College Code": 2634,
+    "College Name": "Excel Engineering College",
+    "Address": "Pallakkapalayam, Sankari West Post",
+    "District": "Namakkal",
+    "Pincode": 637303
+  },
+  {
+    "College Code": 2635,
+    "College Name": "C M S College of Engineering",
+    "Address": "Emapuram Post",
+    "District": "Namakkal",
+    "Pincode": 637003
+  },
+  {
+    "College Code": 2636,
+    "College Name": "A V S Engineering College",
+    "Address": "Military Road, Ammapet",
+    "District": "Salem",
+    "Pincode": 636003
+  },
+  {
+    "College Code": 2638,
+    "College Name": "Mahendra Engineering College for Women",
+    "Address": "Kumaramangalam",
+    "District": "Namakkal",
+    "Pincode": 637205
+  },
+  {
+    "College Code": 2639,
+    "College Name": "Narasus Sarathy Institute of Technology",
+    "Address": "Poosaripatty Village, Omalur Taluk",
+    "District": "Salem",
+    "Pincode": 636305
+  },
+  {
+    "College Code": 2640,
+    "College Name": "Jayalakshmi Institute of Technology",
+    "Address": "Thoppur",
+    "District": "Dharmapuri",
+    "Pincode": 635352
+  },
+  {
+    "College Code": 2641,
+    "College Name": "Varuvan Vadivelan Institute of Technology",
+    "Address": "Nallanahalli",
+    "District": "Dharmapuri",
+    "Pincode": 636701
+  },
+  {
+    "College Code": 2642,
+    "College Name": "P S V College of Engineeering and Technology",
+    "Address": "Mittapalli, Balinayanapalli Post, Elathagiri",
+    "District": "Krishnagiri",
+    "Pincode": 635108
+  },
+  {
+    "College Code": 2643,
+    "College Name": "Bharathiyar Institute of Engineering for Women",
+    "Address": "Deviayakurichi, Attur Taluk",
+    "District": "Salem",
+    "Pincode": 636112
+  },
+  {
+    "College Code": 2646,
+    "College Name": "Tagore Institute of Engineering and Technology",
+    "Address": "Deviyakurichi, Attur Taluk",
+    "District": "Salem",
+    "Pincode": 636112
+  },
+  {
+    "College Code": 2647,
+    "College Name": "J K K Nataraja College of Engineering and Technology",
+    "Address": "Komarapalayam Amani, Thattankuttai Panchayat",
+    "District": "Namakkal",
+    "Pincode": 638183
+  },
+  {
+    "College Code": 2648,
+    "College Name": "Annaporna Engineering College",
+    "Address": "Sankari Main Road, NH-47, Periaseeragapadi",
+    "District": "Salem",
+    "Pincode": 636308
+  },
+  {
+    "College Code": 2649,
+    "College Name": "Karur College of Engineering",
+    "Address": "Sanjay Nagar, Karur-Erode Main Road, Athur Post",
+    "District": "Karur",
+    "Pincode": 639002
+  },
+  {
+    "College Code": 2650,
+    "College Name": "Christ the King Engineering College",
+    "Address": "Cecilia Gardens, Chikkarampalayam Village",
+    "District": "Coimbatore",
+    "Pincode": 641104
+  },
+  {
+    "College Code": 2651,
+    "College Name": "Jai Shriram Engineering College",
+    "Address": "Dharapuram Road, Avinashi Palayam",
+    "District": "Tiruppur",
+    "Pincode": 638660
+  },
+  {
+    "College Code": 2652,
+    "College Name": "Al-Ameen Engineering College",
+    "Address": "Karundevan Palayam, Nanjai Uthukuli Post",
+    "District": "Erode",
+    "Pincode": 638104
+  },
+  {
+    "College Code": 2653,
+    "College Name": "Knowledge Institute of Technology",
+    "Address": "KIOT Campus, Kakapalayam Post",
+    "District": "Salem",
+    "Pincode": 637504
+  },
+  {
+    "College Code": 2656,
+    "College Name": "Builders Engineering College",
+    "Address": "Erode Rode, Nathakadiyur, Kangeyam Taluk",
+    "District": "Tiruppur",
+    "Pincode": 638108
+  },
+  {
+    "College Code": 2657,
+    "College Name": "Paavai College of Technology",
+    "Address": "NH-7, Pachal Post",
+    "District": "Namakkal",
+    "Pincode": 637018
+  },
+  {
+    "College Code": 2658,
+    "College Name": "V S A Group of Institutions",
+    "Address": "NH-47, Uthamasola Puram Post",
+    "District": "Salem",
+    "Pincode": 636010
+  },
+  {
+    "College Code": 2659,
+    "College Name": "Salem College of Engineering and Technology",
+    "Address": "Salem-Attur Main Road, NH-68, Mettupatty Perumapalayam",
+    "District": "Salem",
+    "Pincode": 636111
+  },
+  {
+    "College Code": 2660,
+    "College Name": "Gnanamani College of Engineering",
+    "Address": "NH-7, A K Samuthiram, Pachal Post",
+    "District": "Namakkal",
+    "Pincode": 637018
+  },
+  {
+    "College Code": 2661,
+    "College Name": "Vivekanandha College of Technology for Women",
+    "Address": "Sathinaickenpalayam, Elayampalayam Village, Kumaramangalam",
+    "District": "Namakkal",
+    "Pincode": 637205
+  },
+  {
+    "College Code": 2662,
+    "College Name": "Dr. Nagarathinams College of Engineering",
+    "Address": "Anadhagoundam Palayam, Minakkal Post, Rasipuram",
+    "District": "Namakkal",
+    "Pincode": 637505
+  },
+  {
+    "College Code": 2664,
+    "College Name": "Excel College of Engineering and Technology",
+    "Address": "Pallakapalayam, Sankari West Post",
+    "District": "Namakkal",
+    "Pincode": 637303
+  },
+  {
+    "College Code": 2665,
+    "College Name": "Mahendra Institute of Engineering and Technology",
+    "Address": "Mahendrapuri, Mallasamudram",
+    "District": "Namakkal",
+    "Pincode": 637503
+  },
+  {
+    "College Code": 2666,
+    "College Name": "The Kavery College of Engineering",
+    "Address": "M Kalipatti Post, Mecheri",
+    "District": "Salem",
+    "Pincode": 636453
+  },
+  {
+    "College Code": 2673,
+    "College Name": "Sree Sakthi Engineering College",
+    "Address": "Bettathapuram, Bilichi Village, Karamadai",
+    "District": "Coimbatore",
+    "Pincode": 641104
+  },
+  {
+    "College Code": 2682,
+    "College Name": "Ambal Professional Group of Institutions",
+    "Address": "Coimbatore to Trichy Road, K N Puram Post, Palladam Taluk",
+    "District": "Tiruppur",
+    "Pincode": 641662
+  },
+  {
+    "College Code": 2683,
+    "College Name": "Shreenivasa Engineering College",
+    "Address": "B Pallipatti, Bommidi, Pappireddipatti Taluk",
+    "District": "Dharmapuri",
+    "Pincode": 635301
+  },
+  {
+    "College Code": 2702,
+    "College Name": "Bannari Amman Institute of Technology (Autonomous)",
+    "Address": "Sathyamanagalam",
+    "District": "Erode",
+    "Pincode": 638401
+  },
+  {
+    "College Code": 2704,
+    "College Name": "Coimbatore Institute of Engineering and Technolgoy (Autonomous)",
+    "Address": "Narasipuram Post",
+    "District": "Coimbatore",
+    "Pincode": 641109
+  },
+  {
+    "College Code": 2705,
+    "College Name": "C S I College of Engineering",
+    "Address": "The Nilgiris",
+    "District": "Ketti",
+    "Pincode": 643215
+  },
+  {
+    "College Code": 2706,
+    "College Name": "Dr. Mahalingam College of Engineering and Technology (Autonomous)",
+    "Address": "Mackinaickenpatti Post, Pollachi Taluk",
+    "District": "Coimbatore",
+    "Pincode": 642003
+  },
+  {
+    "College Code": 2707,
+    "College Name": "Erode Sengunthar Engineering College (Autonomous)",
+    "Address": "Thudupathi Post",
+    "District": "Erode",
+    "Pincode": 638057
+  },
+  {
+    "College Code": 2708,
+    "College Name": "Hindusthan College of Engineering and Technology (Autonomous)",
+    "Address": "Othakkalmandapam Post",
+    "District": "Coimbatore",
+    "Pincode": 641032
+  },
+  {
+    "College Code": 2709,
+    "College Name": "Institute of Road and Transport Technology",
+    "Address": "Vasavi College Post",
+    "District": "Erode",
+    "Pincode": 638316
+  },
+  {
+    "College Code": 2710,
+    "College Name": "Karpagam College of Engineering (Autonomous)",
+    "Address": "Othakkalmandapam",
+    "District": "Coimbatore",
+    "Pincode": 641032
+  },
+  {
+    "College Code": 2711,
+    "College Name": "Kongu Engineering College (Autonomous)",
+    "Address": "Perundurai",
+    "District": "Erode",
+    "Pincode": 638052
+  },
+  {
+    "College Code": 2712,
+    "College Name": "Kumaraguru College of Technology (Autonomous)",
+    "Address": "Chinnavedampatti Post",
+    "District": "Coimbatore",
+    "Pincode": 641006
+  },
+  {
+    "College Code": 2713,
+    "College Name": "M P Nachimuthu M Jagannathan Engineering College",
+    "Address": "Chennimalai",
+    "District": "Erode",
+    "Pincode": 638112
+  },
+  {
+    "College Code": 2714,
+    "College Name": "Maharaja Engineering College",
+    "Address": "Avinashi",
+    "District": "Tiruppur",
+    "Pincode": 641654
+  },
+  {
+    "College Code": 2715,
+    "College Name": "Nandha Engineering College (Autonomous)",
+    "Address": "Pitchandampalayam Post",
+    "District": "Erode",
+    "Pincode": 638052
+  },
+  {
+    "College Code": 2716,
+    "College Name": "Park College of Engineering and Technology",
+    "Address": "Kaniyur",
+    "District": "Coimbatore",
+    "Pincode": 641659
+  },
+  {
+    "College Code": 2717,
+    "College Name": "Sasurie College of Engineering",
+    "Address": "Vijayamangalam",
+    "District": "Tiruppur",
+    "Pincode": 638056
+  },
+  {
+    "College Code": 2718,
+    "College Name": "Sri Krishna College of Enginering and Technology (Autonomous)",
+    "Address": "Kuniamuthur",
+    "District": "Coimbatore",
+    "Pincode": 641008
+  },
+  {
+    "College Code": 2719,
+    "College Name": "Sri Ramakrishna Engineering College (Autonomous)",
+    "Address": "Vattamalaipalayam",
+    "District": "Coimbatore",
+    "Pincode": 641022
+  },
+  {
+    "College Code": 2721,
+    "College Name": "Tamilnadu College of Engineering",
+    "Address": "Karumathampatti Post",
+    "District": "Coimbatore",
+    "Pincode": 641659
+  },
+  {
+    "College Code": 2722,
+    "College Name": "Sri Krishna College of Technology (Autonomous)",
+    "Address": "Kovaipudur Post",
+    "District": "Coimbatore",
+    "Pincode": 641042
+  },
+  {
+    "College Code": 2723,
+    "College Name": "Velalar College of Engineering and Technology (Autonomous)",
+    "Address": "Thindal Post",
+    "District": "Erode",
+    "Pincode": 638009
+  },
+  {
+    "College Code": 2725,
+    "College Name": "Sri Ramakrishna Institute of Technology (Autonomous)",
+    "Address": "Pachapalayam",
+    "District": "Coimbatore",
+    "Pincode": 641010
+  },
+  {
+    "College Code": 2726,
+    "College Name": "SNS College of Technology (Autonomous)",
+    "Address": "Kalappatti Post",
+    "District": "Coimbatore",
+    "Pincode": 641035
+  },
+  {
+    "College Code": 2727,
+    "College Name": "Sri Shakthi Institute of Engineering and Technology (Autonomous)",
+    "Address": "L&T Bye-Pass, Venkitapuram Post",
+    "District": "Comibatore",
+    "Pincode": 641062
+  },
+  {
+    "College Code": 2729,
+    "College Name": "Nehru Institute of Engineering and Technology",
+    "Address": "Thirumalayampalayam Post",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2731,
+    "College Name": "R V S College of Engineering and Technology",
+    "Address": "Kannampalayam, Sulur",
+    "District": "Coimbatore",
+    "Pincode": 641402
+  },
+  {
+    "College Code": 2732,
+    "College Name": "INFO Institute of Engineering",
+    "Address": "Sarkar Samakulam",
+    "District": "Coimbatore",
+    "Pincode": 641107
+  },
+  {
+    "College Code": 2733,
+    "College Name": "Angel College of Engineering and Technology",
+    "Address": "P.K.Palayam, Ugayanur Village",
+    "District": "Tirupur",
+    "Pincode": 641665
+  },
+  {
+    "College Code": 2734,
+    "College Name": "SNS College of Engineering",
+    "Address": "Sathy Main Road, Kurumbapalayam Post",
+    "District": "Coimbatore",
+    "Pincode": 641107
+  },
+  {
+    "College Code": 2735,
+    "College Name": "Karpagam Institute of Technology",
+    "Address": "Seerapalayam Village, L&T By pass Road",
+    "District": "Coimbatore",
+    "Pincode": 641021
+  },
+  {
+    "College Code": 2736,
+    "College Name": "Dr. N G P Institute of Technology",
+    "Address": "Kalapatti Road",
+    "District": "Coimbatore",
+    "Pincode": 641035
+  },
+  {
+    "College Code": 2737,
+    "College Name": "Sri Sai Ranganathan Engineering College",
+    "Address": "Zahirnaickenpalayam Village, Viraliyur Post, Thondamuthur Via",
+    "District": "Coimbatore",
+    "Pincode": 641109
+  },
+  {
+    "College Code": 2739,
+    "College Name": "Sri Eshwar College of Engineering (Autonomous)",
+    "Address": "Kondampatti Post, Vadasithur (Via), Kinathukadavu",
+    "District": "Coimbatore",
+    "Pincode": 641202
+  },
+  {
+    "College Code": 2740,
+    "College Name": "Hindustan Institute of Technology",
+    "Address": "Othakkalmandapam",
+    "District": "Coimbatore",
+    "Pincode": 641032
+  },
+  {
+    "College Code": 2741,
+    "College Name": "P A College of Engineering and Technology (Autonomous)",
+    "Address": "Palladam Road, Pollachi",
+    "District": "Coimbatore",
+    "Pincode": 642002
+  },
+  {
+    "College Code": 2743,
+    "College Name": "Dhanalakshmi Srinivasan College of Engineering",
+    "Address": "NH47, Palakkad Main Road, Navakkarai Post, Near Nandhi Temple",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2744,
+    "College Name": "Adithya Institute of Technology",
+    "Address": "Kurumbapalayam Village",
+    "District": "Coimbatore",
+    "Pincode": 641107
+  },
+  {
+    "College Code": 2745,
+    "College Name": "Kathir College of Engineering",
+    "Address": "Neelambur, Avinashi Road",
+    "District": "Coimbatore",
+    "Pincode": 641062
+  },
+  {
+    "College Code": 2747,
+    "College Name": "Shree Venkateshwara Hi-Tech Engineering College",
+    "Address": "Othakuthirai, K Mettupalayam Post, Gobichettipalayam",
+    "District": "Erode",
+    "Pincode": 638455
+  },
+  {
+    "College Code": 2748,
+    "College Name": "Surya Engineering College",
+    "Address": "Mettukadai, Kathirampatti Post",
+    "District": "Erode",
+    "Pincode": 638107
+  },
+  {
+    "College Code": 2749,
+    "College Name": "EASA College of Engineering and Technology",
+    "Address": "NH-47, Coimbatore-Palakkad Main Road, Navakarai Post",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2750,
+    "College Name": "KIT-Kalaignar Karunanidhi Institute of Technology (Autonomous)",
+    "Address": "Kannampalayam",
+    "District": "Coimbatore",
+    "Pincode": 641402
+  },
+  {
+    "College Code": 2751,
+    "College Name": "KGISL Institute of Technology",
+    "Address": "KGISL Campus, Thudiyalur Road, Saravanampatti",
+    "District": "Coimbatore",
+    "Pincode": 641035
+  },
+  {
+    "College Code": 2752,
+    "College Name": "Nandha College of Technology",
+    "Address": "Pitchandampalayam Post",
+    "District": "Erode",
+    "Pincode": 638052
+  },
+  {
+    "College Code": 2753,
+    "College Name": "P P G Institute of Technology",
+    "Address": "Vilankurichi Village",
+    "District": "Coimbatore",
+    "Pincode": 641035
+  },
+  {
+    "College Code": 2755,
+    "College Name": "Nehru Institute of Technology",
+    "Address": "Thirumalayampalayam Post",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2758,
+    "College Name": "J K K Muniraja College of Technology",
+    "Address": "T N Palayam, Gobi Taluk",
+    "District": "Erode",
+    "Pincode": 638506
+  },
+  {
+    "College Code": 2761,
+    "College Name": "United Institute of Technology",
+    "Address": "Gadalore Village, Perianaickenpalayam",
+    "District": "Coimbatore",
+    "Pincode": 641020
+  },
+  {
+    "College Code": 2762,
+    "College Name": "Jansons Institute of Technology",
+    "Address": "Karumathampatty, Somaur",
+    "District": "Coimbatore",
+    "Pincode": 641659
+  },
+  {
+    "College Code": 2763,
+    "College Name": "Akshaya College of Engineering and Technology",
+    "Address": "Kinathukadavu",
+    "District": "Coimbatore",
+    "Pincode": 642109
+  },
+  {
+    "College Code": 2764,
+    "College Name": "K P R Institute of Engineering and Technology",
+    "Address": "Kollupalayam Village, Arasur Panchayat",
+    "District": "Coimbatore",
+    "Pincode": 641407
+  },
+  {
+    "College Code": 2765,
+    "College Name": "Sriguru Institute of Technology",
+    "Address": "Varathaiyanagar Palayam, Kondayampalayam Post",
+    "District": "Coimbatore",
+    "Pincode": 641110
+  },
+  {
+    "College Code": 2767,
+    "College Name": "SRG Engineering College",
+    "Address": "Aniyapuram Post",
+    "District": "Namakkal",
+    "Pincode": 637017
+  },
+  {
+    "College Code": 2768,
+    "College Name": "Park College of Technology",
+    "Address": "Prema Ravi Nagar, Karumathampatty",
+    "District": "Coimbatore",
+    "Pincode": 641059
+  },
+  {
+    "College Code": 2769,
+    "College Name": "J C T College of Engineering and Technology",
+    "Address": "Pichanur",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2772,
+    "College Name": "C M S College of Engineering and Technology",
+    "Address": "Appachigoundenpathy, Kumittipatti",
+    "District": "Coimbatore",
+    "Pincode": 641105
+  },
+  {
+    "College Code": 2776,
+    "College Name": "R V S Technical Campus-Coimbatore",
+    "Address": "Kumaran Kottam Campus, Kannampalayam, Sulur",
+    "District": "Coimbatore",
+    "Pincode": 641402
+  },
+  {
+    "College Code": 3011,
+    "College Name": "University College of Engineering",
+    "Address": "BIT Campus, Anna university",
+    "District": "Tiruchirappalli",
+    "Pincode": 620024
+  },
+  {
+    "College Code": 3016,
+    "College Name": "University College of Engineering",
+    "Address": "Ariyalur, Kathankudikadu Village, Thelur Post",
+    "District": "Ariyalur",
+    "Pincode": 621704
+  },
+  {
+    "College Code": 3018,
+    "College Name": "University College of Engineering",
+    "Address": "Thirukkuvalai",
+    "District": "Nagappattinam",
+    "Pincode": 610204
+  },
+  {
+    "College Code": 3019,
+    "College Name": "University College of Engineering",
+    "Address": "Panruti, Chennai-Kumbakonam Highway, Panikkankuppam, Panruti",
+    "District": "Cuddalore",
+    "Pincode": 607106
+  },
+  {
+    "College Code": 3021,
+    "College Name": "University College of Engineering",
+    "Address": "Pattukkottai, ECR Road, Rajamadam, Pattukkottai Taluk",
+    "District": "Thanjavur",
+    "Pincode": 614701
+  },
+  {
+    "College Code": 3403,
+    "College Name": "Mahalakshmi Engineering College",
+    "Address": "Trichy-Salem Highways, (Near No.1 Tollgate), Melpathu, Siruganbur Post",
+    "District": "Tiruchirappalli",
+    "Pincode": 621213
+  },
+  {
+    "College Code": 3410,
+    "College Name": "Krishnaswamy Collge of Engineering and Technology",
+    "Address": "S Kumarapuram",
+    "District": "Cuddalore",
+    "Pincode": 607109
+  },
+  {
+    "College Code": 3425,
+    "College Name": "C K College of Engineering and Technology",
+    "Address": "Chellangkuppam",
+    "District": "Cuddalore",
+    "Pincode": 607003
+  },
+  {
+    "College Code": 3451,
+    "College Name": "SMR East Coast College of Engineering & Technology",
+    "Address": "East Coast Road, Somanathapattinam",
+    "District": "Thanjavur",
+    "Pincode": 614612
+  },
+  {
+    "College Code": 3454,
+    "College Name": "Sri Ramakrishna College of Engineering",
+    "Address": "Sri Saradha Nagar, NH-45",
+    "District": "Perambalur",
+    "Pincode": 621113
+  },
+  {
+    "College Code": 3456,
+    "College Name": "K S K College of Engineering and Technology",
+    "Address": "Thanjavur Main Road, Darasuram, Kumbakonam",
+    "District": "Thanjavur",
+    "Pincode": 612702
+  },
+  {
+    "College Code": 3457,
+    "College Name": "Dhanalakshmi Srinivasan College of Engineering",
+    "Address": "Thuraiyur Road",
+    "District": "Perambalur",
+    "Pincode": 621212
+  },
+  {
+    "College Code": 3458,
+    "College Name": "Dhanalakshmi Srinivasan Institute of Research and Technology",
+    "Address": "NH-45, Trichy–Chennai Main Road, Siruvachur",
+    "District": "Perambalur",
+    "Pincode": 621113
+  },
+  {
+    "College Code": 3459,
+    "College Name": "Dhanalakshmi Srinivasan Institute of Technology",
+    "Address": "Samayapuram, Chennai-Trichy Main Road",
+    "District": "Tiruchirappalli",
+    "Pincode": 621112
+  },
+  {
+    "College Code": 3460,
+    "College Name": "Sureya College of Engineering",
+    "Address": "Konalai",
+    "District": "Tiruchirappalli",
+    "Pincode": 621132
+  },
+  {
+    "College Code": 3461,
+    "College Name": "Arifa Institute of Techonology",
+    "Address": "Esanoor, Keelaiyur Post, Thirukkuvalai Taluk",
+    "District": "Nagapattinam",
+    "Pincode": 611103
+  },
+  {
+    "College Code": 3462,
+    "College Name": "Ariyalur Engineering College",
+    "Address": "NH-227, Trichy-Chithambaram NH, Karuppur-Senapathy Post",
+    "District": "Ariyalur",
+    "Pincode": 621707
+  },
+  {
+    "College Code": 3463,
+    "College Name": "Elizabeth College of Engineering and Technology",
+    "Address": "Annamangalam Post, Veppanthattai Taluk",
+    "District": "Perambalur",
+    "Pincode": 621102
+  },
+  {
+    "College Code": 3464,
+    "College Name": "Government College of Engineering",
+    "Address": "Gandarvakottai Road, Sengipatti",
+    "District": "Thanjavur",
+    "Pincode": 613402
+  },
+  {
+    "College Code": 3465,
+    "College Name": "Government College of Engineering",
+    "Address": "Srirangam, Sethurappatti",
+    "District": "Trichy",
+    "Pincode": 620012
+  },
+  {
+    "College Code": 3466,
+    "College Name": "Nelliandavar Institute of Technology",
+    "Address": "Nerunjikorai Village, Pudhupalayam, Ariyalur Taluk",
+    "District": "Ariyalur",
+    "Pincode": 621704
+  },
+  {
+    "College Code": 3701,
+    "College Name": "K Ramakrishnan College of Technology",
+    "Address": "Kariyamanickam Road, Samayapuram, Manachanallur Taluk",
+    "District": "Tiruchirappalli",
+    "Pincode": 621112
+  },
+  {
+    "College Code": 3760,
+    "College Name": "Sir Issac Newton College of Engineering and Technology",
+    "Address": "Anthanapeetai Post, Papakoil",
+    "District": "Nagappattinam",
+    "Pincode": 611102
+  },
+  {
+    "College Code": 3766,
+    "College Name": "Star Lion College of Engineering & Technology",
+    "Address": "Manankorai Main Road, Manankorai Village",
+    "District": "Thanjavur",
+    "Pincode": 614206
+  },
+  {
+    "College Code": 3782,
+    "College Name": "OASYS Institute of Technology",
+    "Address": "Pulivalam Village, Musiri Taluk",
+    "District": "Tiruchirappalli",
+    "Pincode": 626001
+  },
+  {
+    "College Code": 3786,
+    "College Name": "M.A.M. School of Engineering",
+    "Address": "Siruganur",
+    "District": "Tiruchirappalli",
+    "Pincode": 621105
+  },
+  {
+    "College Code": 3795,
+    "College Name": "SRM TRP Engineering College",
+    "Address": "Irungalur, Manachanallur Taluk",
+    "District": "Tiruchirappalli",
+    "Pincode": 621105
+  },
+  {
+    "College Code": 3801,
+    "College Name": "A V C College of Engineering",
+    "Address": "Mannampandal Post, Mayiladuthurai",
+    "District": "Nagappattinam",
+    "Pincode": 609305
+  },
+  {
+    "College Code": 3802,
+    "College Name": "Shri Angalamman College of Engineering and Technology Siruganoor",
+    "District": "Tiruchirappalli",
+    "Pincode": 621105
+  },
+  {
+    "College Code": 3803,
+    "College Name": "Anjalai Ammal-Mahalingam Engineering College",
+    "Address": "Kovilvenni",
+    "District": "Thiruvarur",
+    "Pincode": 614403
+  },
+  {
+    "College Code": 3804,
+    "College Name": "Arasu Engineering College",
+    "Address": "Chennai Main Road, Kumbakonam",
+    "District": "Thanjavur",
+    "Pincode": 612501
+  },
+  {
+    "College Code": 3805,
+    "College Name": "Dhanalakshmi Srinivasan Engineering College",
+    "Address": "Thuraiyur Road",
+    "District": "Perambalur",
+    "Pincode": 621212
+  },
+  {
+    "College Code": 3806,
+    "College Name": "E G S Pillay Engineering College (Autonomous)",
+    "District": "Nagapattinam",
+    "Pincode": 611002
+  },
+  {
+    "College Code": 3807,
+    "College Name": "J J College of Engineering and Technology",
+    "Address": "Poolankulathupatti Post",
+    "District": "Thiruchirappalli",
+    "Pincode": 620009
+  },
+  {
+    "College Code": 3808,
+    "College Name": "Jayaram College of Engineering and Technology",
+    "Address": "Pagalavadi Post",
+    "District": "Tiruchirappalli",
+    "Pincode": 621014
+  },
+  {
+    "College Code": 3809,
+    "College Name": "Kurinji College of Engineering and Technology",
+    "Address": "Manapparai",
+    "District": "Tiruchirappalli",
+    "Pincode": 621307
+  },
+  {
+    "College Code": 3810,
+    "College Name": "M.A.M. College of Engineering",
+    "Address": "Siruganur",
+    "District": "Tiruchirappalli",
+    "Pincode": 621105
+  },
+  {
+    "College Code": 3811,
+    "College Name": "M I E T Engineering College",
+    "Address": "Trichy-Pudukkottai Road",
+    "District": "Tiruchirappalli",
+    "Pincode": 620007
+  },
+  {
+    "College Code": 3812,
+    "College Name": "Mookambigai College of Engineering",
+    "Address": "Keeranur",
+    "District": "Pudukkottai",
+    "Pincode": 622502
+  },
+  {
+    "College Code": 3813,
+    "College Name": "Oxford Engineering College",
+    "Address": "Pirattiyur(W)",
+    "District": "Tiruchirappalli",
+    "Pincode": 620009
+  },
+  {
+    "College Code": 3814,
+    "College Name": "P R Engineering College",
+    "Address": "Vallam",
+    "District": "Thanjavur",
+    "Pincode": 613403
+  },
+  {
+    "College Code": 3815,
+    "College Name": "Pavendhar Bharathidasan College of Engineering and Technology",
+    "Address": "Pudukkottai Main Road",
+    "District": "Tiruchirappalli",
+    "Pincode": 620024
+  },
+  {
+    "College Code": 3817,
+    "College Name": "Roever Engineering College",
+    "Address": "Elambalur",
+    "District": "Perambalur",
+    "Pincode": 621212
+  },
+  {
+    "College Code": 3819,
+    "College Name": "Saranathan College of Engineering",
+    "Address": "Panjappur",
+    "District": "Tiruchirappalli",
+    "Pincode": 620012
+  },
+  {
+    "College Code": 3820,
+    "College Name": "Trichy Engineering College",
+    "Address": "Konalai",
+    "District": "Tiruchirappalli",
+    "Pincode": 621132
+  },
+  {
+    "College Code": 3821,
+    "College Name": "A R J College of Engineering and Technology",
+    "Address": "Mannargudi Taluk",
+    "District": "Thiruvarur",
+    "Pincode": 614001
+  },
+  {
+    "College Code": 3822,
+    "College Name": "Dr. Navalar Nedunchezhian College of Engineering",
+    "Address": "Tholudur",
+    "District": "Cuddalore",
+    "Pincode": 606303
+  },
+  {
+    "College Code": 3823,
+    "College Name": "Srinivasan Engineering College",
+    "Address": "Thuraiyur Road",
+    "District": "Perambalur",
+    "Pincode": 621212
+  },
+  {
+    "College Code": 3825,
+    "College Name": "St. Josephs College Of Engineering And Technology",
+    "Address": "Elupatti Village, Rawaspatti Post",
+    "District": "Thanjavur",
+    "Pincode": 613403
+  },
+  {
+    "College Code": 3826,
+    "College Name": "Kongunadu College of Engineering and Technology",
+    "Address": "Tholurpatti, Thottiyam",
+    "District": "Tiruchirappalli",
+    "Pincode": 621215
+  },
+  {
+    "College Code": 3829,
+    "College Name": "M.A.M. College of Engineering and Technology",
+    "Address": "Trichy-Chennai Trunk Road, Siruganur",
+    "District": "Tiruchirappalli",
+    "Pincode": 621105
+  },
+  {
+    "College Code": 3830,
+    "College Name": "K Ramakrishnan College of Engineering",
+    "Address": "Kariyamanickam Road, Samayapuram, Manachanallur Taluk",
+    "District": "Tiruchirappalli",
+    "Pincode": 621112
+  },
+  {
+    "College Code": 3831,
+    "College Name": "Indra Ganesan College of Engineering",
+    "Address": "Madurai Main Road, Manikandam",
+    "District": "Tiruchirappalli",
+    "Pincode": 620012
+  },
+  {
+    "College Code": 3833,
+    "College Name": "Parisutham Institute of Technology and Science",
+    "Address": "Ring Road, Nanjikottai",
+    "District": "Thanjavur",
+    "Pincode": 613006
+  },
+  {
+    "College Code": 3841,
+    "College Name": "C.A.R.E Group of Institutions",
+    "Address": "Thayanoor Village, Thayanoor Village, Kuttappatti, Srirangam Taluk",
+    "District": "Tiruchirappalli",
+    "Pincode": 620009
+  },
+  {
+    "College Code": 3843,
+    "College Name": "M R K Institute of Technology",
+    "Address": "Nattarmangalam Village, Kattumannarkoil",
+    "District": "Cuddalore",
+    "Pincode": 608306
+  },
+  {
+    "College Code": 3844,
+    "College Name": "Shivani Engineering College",
+    "Address": "Ammapettai, Srirangam",
+    "District": "Tiruchirappalli",
+    "Pincode": 620009
+  },
+  {
+    "College Code": 3845,
+    "College Name": "Imayam College of Engineering",
+    "Address": "Kannanur, Thuraiyur",
+    "District": "Tiruchirappalli",
+    "Pincode": 621206
+  },
+  {
+    "College Code": 3846,
+    "College Name": "Mother Terasa College of Engineering and Technology",
+    "Address": "Mettusalai Post and Taluk",
+    "District": "Pudukkottai",
+    "Pincode": 622102
+  },
+  {
+    "College Code": 3847,
+    "College Name": "Roever College of Engineering and Technology",
+    "Address": "Elambalur",
+    "District": "Perambalur",
+    "Pincode": 621212
+  },
+  {
+    "College Code": 3848,
+    "College Name": "Vandayar Engineering College",
+    "Address": "Pulavarnatham Post, Mariamman Koil (Via)",
+    "District": "Thanjavur",
+    "Pincode": 613001
+  },
+  {
+    "College Code": 3849,
+    "College Name": "Annai College of Engineering and Technology",
+    "Address": "Kovilacheri, Kumbakonam",
+    "District": "Thanjavur",
+    "Pincode": 612503
+  },
+  {
+    "College Code": 3850,
+    "College Name": "Vetri Vinayaha College of Engineering and Technology",
+    "Address": "Namakkal-Trichy Main Road, Tholurpatti Village, Thottiam",
+    "District": "Tiruchirappalli",
+    "Pincode": 621215
+  },
+  {
+    "College Code": 3852,
+    "College Name": "Sri Bharathi Engineering College for Women",
+    "Address": "Kaikkuruchi Village, Alangudi Taluk",
+    "District": "Pudukkottai",
+    "Pincode": 622303
+  },
+  {
+    "College Code": 3854,
+    "College Name": "Mahath Amma Institute of Engineering and Technology (MIET)",
+    "Address": "Ariyur, Annavasal Road, Illupur Taluk",
+    "District": "Pudukkottai",
+    "Pincode": 622101
+  },
+  {
+    "College Code": 3855,
+    "College Name": "As-Salam College of Engineering and Technology",
+    "Address": "Thirumangalakudi, Aduthurai, Thiruvidaimaruthur",
+    "District": "Thanjavur",
+    "Pincode": 612102
+  },
+  {
+    "College Code": 3857,
+    "College Name": "Meenakshi Ramaswamy Engineering College",
+    "Address": "Trichy Main Road, Thathanur, Udayarpalayam",
+    "District": "Ariyalur",
+    "Pincode": 621804
+  },
+  {
+    "College Code": 3859,
+    "College Name": "Sembodai Rukmani Varatharajan Engineering College",
+    "Address": "Sembodai Village, Vedaraniam",
+    "District": "Nagappattinam",
+    "Pincode": 614820
+  },
+  {
+    "College Code": 3860,
+    "College Name": "St. Annes College of Engineering and Technology",
+    "Address": "Anguchettypalayam, Siruvathur Post, Panruti",
+    "District": "Cuddalore",
+    "Pincode": 607110
+  },
+  {
+    "College Code": 3905,
+    "College Name": "Kings College of Engineering",
+    "Address": "Punalkulam",
+    "District": "Pudukkottai",
+    "Pincode": 613303
+  },
+  {
+    "College Code": 3908,
+    "College Name": "Mount Zion College of Engineering and Technology",
+    "Address": "Pilivalam Post",
+    "District": "Pudukkottai",
+    "Pincode": 622507
+  },
+  {
+    "College Code": 3918,
+    "College Name": "Shanmuganathan Engineering College",
+    "Address": "Pillivalam Post",
+    "District": "Pudukkottai",
+    "Pincode": 622507
+  },
+  {
+    "College Code": 3920,
+    "College Name": "Sudharsan Engineering College",
+    "Address": "Sathiyamangalam Post",
+    "District": "Pudukkottai",
+    "Pincode": 622501
+  },
+  {
+    "College Code": 3923,
+    "College Name": "M N S K College of Engineering",
+    "Address": "Vallathirakkottai Post",
+    "District": "Pudukkottai",
+    "Pincode": 622305
+  },
+  {
+    "College Code": 3925,
+    "College Name": "M A R College of Engineering and Technology",
+    "Address": "Boothakudi, Rasanaickenpatty Post, Illuppur Taluk",
+    "District": "Pudukkottai",
+    "Pincode": 621316
+  },
+  {
+    "College Code": 4020,
+    "College Name": "Anna University Regional Campus - Tirunelveli",
+    "Address": "Trivandrum Road, Palayamkottai",
+    "District": "Tirunelveli",
+    "Pincode": 627007
+  },
+  {
+    "College Code": 4023,
+    "College Name": "University College of Engineering",
+    "Address": "Nagercoil, Nagercoil Industrial Estate, Konam",
+    "District": "Kanyakumari",
+    "Pincode": 629004
+  },
+  {
+    "College Code": 4024,
+    "College Name": "University V.O.C. College of Engineering",
+    "Address": "Thoothukudi, Near V.O.C. College, Millerpuram",
+    "District": "Thoothukudi",
+    "Pincode": 628008
+  },
+  {
+    "College Code": 4669,
+    "College Name": "Thamirabharani Engineering College",
+    "Address": "Chathirampudukulam Village, Thatchanallur",
+    "District": "Tirunelveli",
+    "Pincode": 625358
+  },
+  {
+    "College Code": 4670,
+    "College Name": "Rohini College of Engineering & Technology",
+    "Address": "Anjugramam-Kanyakumari Main Road, Palkulam, Variyoor Post",
+    "District": "Kanyakumari",
+    "Pincode": 629401
+  },
+  {
+    "College Code": 4672,
+    "College Name": "Stella Marys College of Engineering",
+    "Address": "Arunthengan Vilai, Azhikal Post",
+    "District": "Kanyakumari",
+    "Pincode": 629202
+  },
+  {
+    "College Code": 4675,
+    "College Name": "Universal College of Engineering and Technology",
+    "Address": "Anbagam Campus, Radhapuram Road, Vallioor",
+    "District": "Tirunelveli",
+    "Pincode": 627117
+  },
+  {
+    "College Code": 4676,
+    "College Name": "Renganayagi Varatharaj College of Engineering",
+    "Address": "Salvarpatti, Sivakasi",
+    "District": "Virudhunagar",
+    "Pincode": 626128
+  },
+  {
+    "College Code": 4677,
+    "College Name": "Lourdes Mount College of Engineering and Technology",
+    "Address": "Marthandam-Karungal Road, Chundavilai, Mullanganavilai, Nattalam Post",
+    "District": "Kanyakumari",
+    "Pincode": 629195
+  },
+  {
+    "College Code": 4678,
+    "College Name": "Ramco Institute of Technology",
+    "Address": "North venganallur Village, Krishnapuram Panchayat, Rajapalayam",
+    "District": "Virudhunagar",
+    "Pincode": 626117
+  },
+  {
+    "College Code": 4680,
+    "College Name": "AAA College of Engineering and Technology",
+    "Address": "Kamarajar Educational Road, Amathur Village, Sivakasi",
+    "District": "Virudhunagar",
+    "Pincode": 626005
+  },
+  {
+    "College Code": 4686,
+    "College Name": "Good Shepherd College of Engineering and Technology",
+    "Address": "Maruthamparai",
+    "District": "Kanyakumari",
+    "Pincode": 629101
+  },
+  {
+    "College Code": 4864,
+    "College Name": "V V College of Engineering",
+    "Address": "Arasoor Village, Idaichivilai Post, Santhakulam Taluk",
+    "District": "Thoothukudi",
+    "Pincode": 628656
+  },
+  {
+    "College Code": 4917,
+    "College Name": "Sethu Institute of Technology (Autonomous)",
+    "Address": "Kariapatti Post",
+    "District": "Virudhunagar",
+    "Pincode": 626106
+  },
+  {
+    "College Code": 4927,
+    "College Name": "Maria College of Engineering and Technology",
+    "Address": "Attoor Puliyamoodu Junction, Thiruvattar Post",
+    "District": "Kanyakumari",
+    "Pincode": 629177
+  },
+  {
+    "College Code": 4928,
+    "College Name": "MAR Ephraem College of Engineering & Technology",
+    "Address": "Malankara Hills, Elavuvillai, Marthandam",
+    "District": "Kanyakumari",
+    "Pincode": 629171
+  },
+  {
+    "College Code": 4929,
+    "College Name": "M E T Engineering College",
+    "Address": "Mogals Garden, Thovalai Village, Aralvaimozhi Town Panchayat, Thovalai",
+    "District": "Kanyakumari",
+    "Pincode": 629304
+  },
+  {
+    "College Code": 4931,
+    "College Name": "Chandy College of Engineering",
+    "Address": "Chandy Nagar, Mullakkadu",
+    "District": "Thoothukudi",
+    "Pincode": 628005
+  },
+  {
+    "College Code": 4932,
+    "College Name": "Immanuel Arasar J J College of Engineering",
+    "Address": "Anappara, Edavilagam, Nattalam",
+    "District": "Kanyakumari",
+    "Pincode": 629195
+  },
+  {
+    "College Code": 4933,
+    "College Name": "St. Mother Theresa Engineering College",
+    "Address": "Vagaikulam",
+    "District": "Thoothukudi",
+    "Pincode": 628102
+  },
+  {
+    "College Code": 4934,
+    "College Name": "Holy Cross Engineering College",
+    "Address": "Vagaikulam, Sri Mulakarai, Srivaikuntam",
+    "District": "Thoothukudi",
+    "Pincode": 628851
+  },
+  {
+    "College Code": 4937,
+    "College Name": "A R College of Engineering and Technology",
+    "Address": "Kadayam-Alangulam Road, Therikkumadathoor Post",
+    "District": "Tirunelveli",
+    "Pincode": 627423
+  },
+  {
+    "College Code": 4938,
+    "College Name": "Sivaji College of Engineering and Technology",
+    "Address": "Manivilla Palulai Panchayat, Vilavancode",
+    "District": "Kanyakumari",
+    "Pincode": 629170
+  },
+  {
+    "College Code": 4941,
+    "College Name": "Unnamalai Institute of Technology",
+    "Address": "Ayyaneri, Kovilpatti",
+    "District": "Thoothukudi",
+    "Pincode": 628502
+  },
+  {
+    "College Code": 4943,
+    "College Name": "Satyam College of Engineering & Technology",
+    "Address": "Kannappannallur, Aralvaimozhi",
+    "District": "Kanyakumari",
+    "Pincode": 629301
+  },
+  {
+    "College Code": 4944,
+    "College Name": "Arunachala College of Engineering for Women",
+    "Address": "Thanka Gardens, Manavilai, Vellichanthai, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629203
+  },
+  {
+    "College Code": 4945,
+    "College Name": "Vins Christian Womens College of Engineering",
+    "Address": "Chunkankadai Post, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629807
+  },
+  {
+    "College Code": 4946,
+    "College Name": "D M I Engineering College",
+    "Address": "Aralvaimozhi Village, Thovalai",
+    "District": "Kanyakumari",
+    "Pincode": 629301
+  },
+  {
+    "College Code": 4948,
+    "College Name": "Rajas International Institute of Technology for Women",
+    "Address": "Ozhuginasery, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629001
+  },
+  {
+    "College Code": 4949,
+    "College Name": "P S N Institute of Technology & Science",
+    "Address": "Melathediyoor",
+    "District": "Tirunelveli",
+    "Pincode": 627152
+  },
+  {
+    "College Code": 4952,
+    "College Name": "C S I Institute of Technology",
+    "Address": "Thovalai",
+    "District": "Kanyakumari",
+    "Pincode": 629302
+  },
+  {
+    "College Code": 4953,
+    "College Name": "CAPE Institute of Technology",
+    "Address": "Levingipuram",
+    "District": "Tirunelveli",
+    "Pincode": 627114
+  },
+  {
+    "College Code": 4954,
+    "College Name": "Dr. Sivanthi Aditanar College of Engineering",
+    "Address": "Tiruchendur",
+    "District": "Thoothukudi",
+    "Pincode": 628215
+  },
+  {
+    "College Code": 4955,
+    "College Name": "Francis Xavier Engineering College",
+    "Address": "Vannarpettai",
+    "District": "Tirunelveli",
+    "Pincode": 627003
+  },
+  {
+    "College Code": 4957,
+    "College Name": "Jayaraj Annapackiam CSI College of Engineering",
+    "Address": "Nazareth",
+    "District": "Thoothukudi",
+    "Pincode": 628617
+  },
+  {
+    "College Code": 4959,
+    "College Name": "Kamaraj College of Engineering and Technology",
+    "District": "Virudhunagar",
+    "Pincode": 626001
+  },
+  {
+    "College Code": 4960,
+    "College Name": "Mepco Schlenk Engineering College (Autonomous)",
+    "Address": "Sivakasi",
+    "District": "Virudhunagar",
+    "Pincode": 626005
+  },
+  {
+    "College Code": 4961,
+    "College Name": "National College of Engineering",
+    "Address": "Maruthakulam Post",
+    "District": "Tirunelveli",
+    "Pincode": 627151
+  },
+  {
+    "College Code": 4962,
+    "College Name": "National Engineering College (Autonomous)",
+    "Address": "Kovilpatti",
+    "District": "Thoothukudi",
+    "Pincode": 628503
+  },
+  {
+    "College Code": 4964,
+    "College Name": "P S N College of Engineering and Technology (Autonomous)",
+    "Address": "Tirunelveli Dstrict",
+    "District": "Melathediyoor",
+    "Pincode": 627152
+  },
+  {
+    "College Code": 4965,
+    "College Name": "P S R Engineering College (Autonomous)",
+    "Address": "Appayanaickenpatti, Sevalpatti",
+    "District": "Virudhunagar",
+    "Pincode": 626140
+  },
+  {
+    "College Code": 4966,
+    "College Name": "PET Engineering College",
+    "Address": "Vallioor Post",
+    "District": "Tirunelveli",
+    "Pincode": 627117
+  },
+  {
+    "College Code": 4967,
+    "College Name": "S Veerasamy Chettiar College of Engineering and Technology",
+    "Address": "Puliangudi Post",
+    "District": "Tenkasi",
+    "Pincode": 627855
+  },
+  {
+    "College Code": 4968,
+    "College Name": "Sardar Raja College of Engineering",
+    "Address": "Alangulam",
+    "District": "Tenkasi",
+    "Pincode": 627808
+  },
+  {
+    "College Code": 4969,
+    "College Name": "SCAD College of Engineering and Technology",
+    "Address": "Cheranmahadevi",
+    "District": "Tirunelveli",
+    "Pincode": 627414
+  },
+  {
+    "College Code": 4970,
+    "College Name": "Sree Sowdambiga College of Engineering",
+    "Address": "Aruppukkottai Taluk",
+    "District": "Virudhunagar",
+    "Pincode": 626134
+  },
+  {
+    "College Code": 4971,
+    "College Name": "St. Xavier Catholic College of Engineering",
+    "Address": "Chunkankadai, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629807
+  },
+  {
+    "College Code": 4972,
+    "College Name": "Amrita College of Engineering and Technology",
+    "Address": "Erachakulam Post",
+    "District": "Kanyakumari",
+    "Pincode": 629902
+  },
+  {
+    "College Code": 4973,
+    "College Name": "Rajas Engineering College",
+    "Address": "Vadakkangulam",
+    "District": "Tirunelveli",
+    "Pincode": 627116
+  },
+  {
+    "College Code": 4974,
+    "College Name": "Government College of Engineering",
+    "District": "Tirunelveli",
+    "Pincode": 627007
+  },
+  {
+    "College Code": 4975,
+    "College Name": "Dr. G U Pope College of Engineering",
+    "Address": "Sawyerpuram",
+    "District": "Thoothukudi",
+    "Pincode": 628251
+  },
+  {
+    "College Code": 4976,
+    "College Name": "Infant Jesus College of Engineering",
+    "Address": "Thoothukudi Highway (NH7/A)",
+    "District": "Thoothukudi",
+    "Pincode": 628851
+  },
+  {
+    "College Code": 4977,
+    "College Name": "Narayanaguru College of Engineering",
+    "Address": "Manjalumoodu",
+    "District": "Kanyakumari",
+    "Pincode": 629151
+  },
+  {
+    "College Code": 4978,
+    "College Name": "Udaya School of Engineering",
+    "Address": "Ammandivilai Post",
+    "District": "Kanyakumari",
+    "Pincode": 629204
+  },
+  {
+    "College Code": 4979,
+    "College Name": "V P Muthaiah Pillai Meenakshi Ammal Engineering College for Women",
+    "Address": "Srivilliputhur Taluk",
+    "District": "Virudhunagar",
+    "Pincode": 626190
+  },
+  {
+    "College Code": 4980,
+    "College Name": "Einstein College of Engineering",
+    "Address": "Seethaparpanallur",
+    "District": "Tirunelveli",
+    "Pincode": 627012
+  },
+  {
+    "College Code": 4981,
+    "College Name": "Ponjesly College of Engineering",
+    "Address": "Vettornimadam Post, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629003
+  },
+  {
+    "College Code": 4982,
+    "College Name": "Vins Christian College of Engineering",
+    "Address": "Chunkankadai Post, Nagercoil",
+    "District": "Kanyakumari",
+    "Pincode": 629807
+  },
+  {
+    "College Code": 4983,
+    "College Name": "Lord Jegannath College of Engineering and Technology",
+    "Address": "Kumarapuram, Thoppur Post",
+    "District": "Kanyakumari",
+    "Pincode": 629402
+  },
+  {
+    "College Code": 4984,
+    "College Name": "Marthandam College of Engineering & Technology",
+    "Address": "Kuttakuzhi, Veeyanoor Post",
+    "District": "Kanyakumari",
+    "Pincode": 629177
+  },
+  {
+    "College Code": 4989,
+    "College Name": "P S N Engineering College",
+    "Address": "Melathediyoor",
+    "District": "Tirunelveli",
+    "Pincode": 627152
+  },
+  {
+    "College Code": 4992,
+    "College Name": "Bethlahem Institute of Engineering",
+    "Address": "Karungal",
+    "District": "Kanyakumari",
+    "Pincode": 629157
+  },
+  {
+    "College Code": 4993,
+    "College Name": "Loyola Institute of Technology and Science",
+    "Address": "Loyola Nagar, P B No.2, Thovalai",
+    "District": "Kanyakumari",
+    "Pincode": 629302
+  },
+  {
+    "College Code": 4994,
+    "College Name": "J P College of Engineering",
+    "Address": "College Road, Ayakudy, Tenkasi Taluk",
+    "District": "Tenkasi",
+    "Pincode": 627852
+  },
+  {
+    "College Code": 4995,
+    "College Name": "P S R Rengasamy College of Engineering for Women",
+    "Address": "Appayanaickenpatti, Sevalpatti",
+    "District": "Virudhunagar",
+    "Pincode": 626140
+  },
+  {
+    "College Code": 4996,
+    "College Name": "Sri Vidhya College of Engineering and Technology",
+    "Address": "Sivakasi Main Road, P Kumaralinapuram",
+    "District": "Virudhunagar",
+    "Pincode": 626005
+  },
+  {
+    "College Code": 4998,
+    "College Name": "Mahakavi Bharathiyar College of Engineering and Technology",
+    "Address": "Vasudevanallur",
+    "District": "Tenkasi",
+    "Pincode": 627758
+  },
+  {
+    "College Code": 4999,
+    "College Name": "Annai Vailankanni College of Engineering",
+    "Address": "Pothaiyadi Salai, Pottalkulam, Azhagappapuram",
+    "District": "Kanyakumari",
+    "Pincode": 629401
+  },
+  {
+    "College Code": 5008,
+    "College Name": "Thiagarajar College of Engineering (Autonomous)",
+    "Address": "Tirupparankundram",
+    "District": "Madurai",
+    "Pincode": 625015
+  },
+  {
+    "College Code": 5009,
+    "College Name": "Government College of Engineering",
+    "Address": "Melachokkanathapuram, Bodinayakkanur",
+    "District": "Theni",
+    "Pincode": 625582
+  },
+  {
+    "College Code": 5010,
+    "College Name": "Anna University Regional Campus - Madurai",
+    "Address": "Kanyakumari National Highway, Keelakuilkudi",
+    "District": "Madurai",
+    "Pincode": 625019
+  },
+  {
+    "College Code": 5012,
+    "College Name": "Central Electrochemical Research Institute",
+    "Address": "(CECRI), Karaikudi",
+    "District": "Sivagangai",
+    "Pincode": 630006
+  },
+  {
+    "College Code": 5017,
+    "College Name": "University College of Engineering",
+    "Address": "Ramanathapuram, Pullangudi",
+    "District": "Ramanathapuram",
+    "Pincode": 623513
+  },
+  {
+    "College Code": 5022,
+    "College Name": "University College of Engineering",
+    "Address": "Dindigul, Mangarai Pirivu, Reddiyarchathiram",
+    "District": "Dindigul",
+    "Pincode": 624622
+  },
+  {
+    "College Code": 5502,
+    "College Name": "Sree Raaja Raajan College of Engineering & Technology",
+    "Address": "Amaravathi Village, Amaravathi Pudur Post, Karaikudi",
+    "District": "Sivagangai",
+    "Pincode": 630301
+  },
+  {
+    "College Code": 5530,
+    "College Name": "SSM Institute of Engineering and Technology",
+    "Address": "Kuttathupatti Village, Sindalaigundu Post",
+    "District": "Dindigul",
+    "Pincode": 624002
+  },
+  {
+    "College Code": 5532,
+    "College Name": "Vaigai College of Engineering",
+    "Address": "Therkutheru, Melur Taluk",
+    "District": "Madurai",
+    "Pincode": 625122
+  },
+  {
+    "College Code": 5533,
+    "College Name": "Karaikudi Institute of Technology",
+    "Address": "KIT & KIM Technical Campus, Keeranipatti, Thalakkuvur, Karaikudi",
+    "District": "Sivagangai",
+    "Pincode": 630307
+  },
+  {
+    "College Code": 5536,
+    "College Name": "Mangayarkarasi College of Engineering",
+    "Address": "First Street, Mangayarkarasi Nagar, Paravai",
+    "District": "Madurai",
+    "Pincode": 625402
+  },
+  {
+    "College Code": 5537,
+    "College Name": "Jainee College of Engineering and Technology",
+    "Address": "Dindigul-Theni Main Road (Near Vakkampatti)",
+    "District": "Dindigul",
+    "Pincode": 624303
+  },
+  {
+    "College Code": 5703,
+    "College Name": "Christian College of Engineering and Technology",
+    "Address": "Oddanchatram",
+    "District": "Dindigul",
+    "Pincode": 624619
+  },
+  {
+    "College Code": 5720,
+    "College Name": "Sri Subramanya College of Engineering and Technology",
+    "Address": "Sukkamanaickanpatti, Palani",
+    "District": "Dindigul",
+    "Pincode": 624615
+  },
+  {
+    "College Code": 5832,
+    "College Name": "N P R College of Engineering and Technology",
+    "Address": "Natham",
+    "District": "Dindigul",
+    "Pincode": 624003
+  },
+  {
+    "College Code": 5842,
+    "College Name": "Madurai Institute of Engineering & Technology",
+    "Address": "Pottapalayam Village, Manamadurai Taluk",
+    "District": "Sivagangai",
+    "Pincode": 630611
+  },
+  {
+    "College Code": 5851,
+    "College Name": "Veerammal Engineering College",
+    "Address": "K Singarakottai",
+    "District": "Dindigul",
+    "Pincode": 624708
+  },
+  {
+    "College Code": 5862,
+    "College Name": "R V S Educational Trust’s Groups of Institutions (Integrated Campus)",
+    "Address": "N Paraipatti Post, Vedasandur Taluk",
+    "District": "Dindigul",
+    "Pincode": 624005
+  },
+  {
+    "College Code": 5865,
+    "College Name": "Nadar Saraswathi College of Engineering and Technology",
+    "Address": "Vadupudupatti, Annanji Post",
+    "District": "Theni",
+    "Pincode": 625531
+  },
+  {
+    "College Code": 5901,
+    "College Name": "Alagappa Chettair Government College of Engineering and Technology (Autonomous)",
+    "Address": "Karaikudi",
+    "District": "Sivagangai",
+    "Pincode": 630004
+  },
+  {
+    "College Code": 5902,
+    "College Name": "Bharath Niketan Engineering College",
+    "Address": "Thimmarasanaickanoor, Aundipatti",
+    "District": "Theni",
+    "Pincode": 625536
+  },
+  {
+    "College Code": 5903,
+    "College Name": "K L N College of Information Technology",
+    "Address": "Pottapalayam",
+    "District": "Sivagangai",
+    "Pincode": 630611
+  },
+  {
+    "College Code": 5904,
+    "College Name": "K L N College of Engineering",
+    "Address": "Pottapalayam",
+    "District": "Sivagangai",
+    "Pincode": 630611
+  },
+  {
+    "College Code": 5907,
+    "College Name": "Mohamed Sathak Engineering College",
+    "Address": "Kilakarai",
+    "District": "Ramanathapuram",
+    "Pincode": 623806
+  },
+  {
+    "College Code": 5910,
+    "College Name": "P S N A Colllege of Engineering and Technology",
+    "District": "Dindigul",
+    "Pincode": 624622
+  },
+  {
+    "College Code": 5911,
+    "College Name": "P T R College of Engineering and Technology",
+    "Address": "Austinpatty Post",
+    "District": "Madurai",
+    "Pincode": 625008
+  },
+  {
+    "College Code": 5912,
+    "College Name": "Pandian Saraswathi Yadav Engineering College",
+    "Address": "Thirumansolai Post",
+    "District": "Sivagangai",
+    "Pincode": 630561
+  },
+  {
+    "College Code": 5913,
+    "College Name": "Ratnavel Subramaniam College of Engineering and Technology",
+    "Address": "N Paraipatti Post",
+    "District": "Dindigul",
+    "Pincode": 624005
+  },
+  {
+    "College Code": 5914,
+    "College Name": "SOLAIMALAI COLLEGE OF ENGINEERING",
+    "Address": "Veerapanjan",
+    "District": "Madurai",
+    "Pincode": 625020
+  },
+  {
+    "College Code": 5915,
+    "College Name": "SACS-M A V M M Engineering College",
+    "Address": "Kidaripatty Post",
+    "District": "Madurai",
+    "Pincode": 625001
+  },
+  {
+    "College Code": 5919,
+    "College Name": "St. Michael College of Engineering and Technology",
+    "Address": "Kalayarkoil",
+    "District": "Sivagangai",
+    "Pincode": 630551
+  },
+  {
+    "College Code": 5921,
+    "College Name": "Syed Ammal Engineering College",
+    "Address": "Achunthanvayal Post",
+    "District": "Ramanathapuram",
+    "Pincode": 623502
+  },
+  {
+    "College Code": 5922,
+    "College Name": "Vickram College of Engineering",
+    "Address": "Enathi Post",
+    "District": "Sivagangai",
+    "Pincode": 630561
+  },
+  {
+    "College Code": 5924,
+    "College Name": "Ganapathy Chettiar College of Engineering and Technology",
+    "Address": "Melakavanur Post, Paramakudi",
+    "District": "Ramanathapuram",
+    "Pincode": 623706
+  },
+  {
+    "College Code": 5930,
+    "College Name": "SBM College of Engineering and Technology",
+    "Address": "Thamaraipady, T N Paraipatti Pirivu",
+    "District": "Dindigul",
+    "Pincode": 624005
+  },
+  {
+    "College Code": 5935,
+    "College Name": "Fatima Michael College of Engineering & Technology",
+    "Address": "Sengottai Village, Sivagangai Main Road",
+    "District": "Madurai",
+    "Pincode": 625020
+  },
+  {
+    "College Code": 5942,
+    "College Name": "Ultra College of Engineering & Technology",
+    "Address": "Kodikulam, 1 Bit Village, Madurai-Chennai Highway",
+    "District": "Madurai",
+    "Pincode": 625104
+  },
+  {
+    "College Code": 5986,
+    "College Name": "Velammal College of Engineering and Technology",
+    "Address": "Madurai - Rameshwaram High Road, Viraganoor",
+    "District": "Madurai",
+    "Pincode": 625009
+  },
+  {
+    "College Code": 5988,
+    "College Name": "Theni Kammavar Sangam College of Technology",
+    "Address": "Theni Main Road, Koduvillarpatti Post",
+    "District": "Theni",
+    "Pincode": 625534
+  },
+  {
+    "College Code": 5990,
+    "College Name": "Latha Mathavan Engineering College",
+    "Address": "Kidaripatti Post, Alagarkoil (Via), Melur Taluk",
+    "District": "Madurai",
+    "Pincode": 625301
+  }
+]

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:id="@+id/banner_container_top1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:background="@color/teal_700"
+            android:orientation="horizontal"
+            android:weightSum="5"
+            android:padding="8dp">
+
+            <TextView
+                android:layout_weight="3"
+                android:id="@+id/tvFilterDetails"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Year: 2024 | Category: cutoffs" />
+
+            <TextView
+                android:layout_weight="2"
+                android:id="@+id/tvItemCount"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Results: 0 items"
+                android:textStyle="bold"
+                android:layout_gravity="end"
+                android:gravity="end"
+                android:layout_marginStart="8dp" />
+        </LinearLayout>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/tvNoData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="No colleges match your criteria"
+            android:textSize="18sp"
+            android:visibility="gone" />
+
+
+        <FrameLayout
+            android:id="@+id/overlayView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="16dp"
+            android:background="@android:color/transparent"
+            android:elevation="8dp"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:id="@+id/banner_container"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="vertical" />
+        </FrameLayout>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabFilter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="24dp"
+        android:src="@drawable/ic_filter"
+        app:backgroundTint="@color/black" />
+</FrameLayout>

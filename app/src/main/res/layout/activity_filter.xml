@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:id="@+id/banner_container_top2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="vertical" />
+
+        <!-- Year Selection (Default 2024) -->
+        <!-- Category Type Selection (Switch between cutoffs and ranks) -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:orientation="horizontal"
+            android:background="@drawable/branch_background"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                android:text="Category Type:"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cutoffs"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginEnd="8dp"/>
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switchCategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false" />
+
+            <TextView
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ranks"
+                android:textColor="#FFFFFF"
+                android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Year (Default: 2024)"
+            android:textStyle="bold" />
+        <Spinner
+            android:id="@+id/spinnerYear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Category Selection (Mandatory) -->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Category Type (Mandatory)"-->
+<!--            android:textStyle="bold" />-->
+<!--        <Spinner-->
+<!--            android:id="@+id/spinnerCategory"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginBottom="16dp" />-->
+
+
+        <!-- Caste Category Selection (Optional) -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Caste Category (Optional)"
+            android:textStyle="bold" />
+        <Spinner
+            android:id="@+id/spinnerCasteCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Cutoff Range -->
+        <TextView
+            android:id="@+id/tvCutoffRangeLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cutoff Range"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="16dp">
+            <EditText
+                android:id="@+id/etMinCutoff"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:hint="Min" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" to " />
+            <EditText
+                android:id="@+id/etMaxCutoff"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:hint="Max" />
+        </LinearLayout>
+
+        <!-- Branch Selection (Optional) -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Branch (Optional)"
+            android:textStyle="bold" />
+        <Spinner
+            android:id="@+id/spinnerBranch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp" />
+
+        <!-- District Selection (Optional) -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="District (Optional)"
+            android:textStyle="bold" />
+        <Spinner
+            android:id="@+id/spinnerDistrict"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Apply Button -->
+        <Button
+            android:layout_marginTop="40dp"
+            android:id="@+id/btnApply"
+            android:background="@drawable/button_drawable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apply Filter" />
+
+        <FrameLayout
+            android:id="@+id/overlayView"
+            android:background="@android:color/transparent"
+            android:elevation="8dp"
+            android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="16dp">
+
+            <LinearLayout
+                android:id="@+id/banner_container1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="vertical" />
+        </FrameLayout>
+    </LinearLayout>
+</ScrollView>
