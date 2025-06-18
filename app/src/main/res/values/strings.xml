@@ -24,8 +24,10 @@
         <item>Scheduled Caste Arunthathiyar (SCA)</item>
     </string-array>
 
-    <string name="banner_home_footer">24693952633527796_24725361303720262</string>
-    <string name="banner_home_top">24693952633527796_24725366147053111</string>
+    <string name="banner_main_footer">24693952633527796_24725361303720262</string>
+    <string name="banner_main_top">24693952633527796_24725366147053111</string>
+    <string name="banner_home_footer">24693952633527796_24748422221414170</string>
+    <string name="banner_home_top">24693952633527796_24748426184747107</string>
     <string name="banner_filter_top">24693952633527796_24725368630386196</string>
     <string name="banner_filter_footer">24693952633527796_24725371233719269</string>
     <string name="interstitial_full_screen">24693952633527796_24725374190385640</string>

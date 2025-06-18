@@ -210,11 +210,11 @@ class MainActivity : AppCompatActivity() {
 
             adView = AdView(
                 this,
-                this.resources.getString(R.string.banner_home_footer),
+                this.resources.getString(R.string.banner_main_footer),
                 AdSize.BANNER_HEIGHT_50
             )
             // Find the Ad Container
-            val adContainer = findViewById(R.id.banner_container) as LinearLayout
+            val adContainer = findViewById(R.id.banner_container_bottommain) as LinearLayout
 
             // Add the ad view to your activity layout
             adContainer.addView(adView)
@@ -244,11 +244,11 @@ class MainActivity : AppCompatActivity() {
 
             adView2 = AdView(
                 this,
-                this.resources.getString(R.string.banner_home_top),
+                this.resources.getString(R.string.banner_main_top),
                 AdSize.BANNER_HEIGHT_50
             )
             // Find the Ad Container
-            val adContainer = findViewById(R.id.banner_container_top1) as LinearLayout
+            val adContainer = findViewById(R.id.banner_container_main_top) as LinearLayout
 
             // Add the ad view to your activity layout
             adContainer.addView(adView2)

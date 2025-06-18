@@ -102,6 +102,8 @@ class FilterActivity : AppCompatActivity() {
                 // Set up year spinner
         val years = ArrayList<Int>()
         // Direct addition to ensure all years are present
+        years.add(2020)
+        years.add(2021)
         years.add(2022)
         years.add(2023)
         years.add(2024)

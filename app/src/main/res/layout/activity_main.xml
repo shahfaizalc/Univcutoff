@@ -10,12 +10,11 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-
         <LinearLayout
-            android:id="@+id/banner_container_top1"
+            android:id="@+id/banner_container_main_top"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="90dp"
             android:orientation="vertical" />
 
         <LinearLayout
@@ -74,7 +73,7 @@
             android:padding="16dp">
 
             <LinearLayout
-                android:id="@+id/banner_container"
+                android:id="@+id/banner_container_bottommain"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:orientation="vertical" />

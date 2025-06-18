@@ -28,7 +28,15 @@
             android:name=".FilterActivity"
             android:label="Filter Options"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ImportantDatesActivity"
+            android:label="Important Dates"
 
+            android:configChanges="orientation|screenSize" />
+
+        <!-- Home Activity -->
+        <activity
+            android:name=".HomeActivity" />
     </application>
 
 </manifest>

@@ -20,7 +20,7 @@ class DataManager private constructor() {
         private set
     private val categories: MutableSet<String> = HashSet()
     private val jsonCategories: MutableSet<String> = HashSet() // To store "cutoffs" and "ranks"
-    private val years: MutableSet<Int> = HashSet(listOf(2022, 2023, 2024))
+    private val years: MutableSet<Int> = HashSet(listOf(2020, 2021, 2022, 2023, 2024))
     private val branches: MutableSet<String> = HashSet()
     private val districts: MutableSet<String> = HashSet()
 
@@ -135,6 +135,8 @@ class DataManager private constructor() {
             Log.d("DataManager", "Years before forced addition: $years")
 
             // Force add all years to ensure they're available
+            years.add(2020)
+            years.add(2021)
             years.add(2022)
             years.add(2023)
             years.add(2024)
@@ -304,6 +306,8 @@ class DataManager private constructor() {
 
     fun getYears(): Set<Int> {
         // Ensure all years are included
+        years.add(2020)
+        years.add(2021)
         years.add(2022)
         years.add(2023)
         years.add(2024)
