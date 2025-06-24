@@ -15,12 +15,12 @@
 #-repackageclasses com.wibmo.addons
 
 #Keep class name but allow method obfuscation
--keeppackagenames com.faikan.univcutoff.**
+-keeppackagenames com.faikan.univcounselling.**
 
 # Uncomment this to preserve the line number information for
 # debugging stack traces.
 #-keepattributes SourceFile,LineNumberTable
--keep class com.faikan.univcutoff.model { *; }
+-keep class com.faikan.univcounselling.model { *; }
 
 
 # Keep `Companion` object fields of serializable classes.

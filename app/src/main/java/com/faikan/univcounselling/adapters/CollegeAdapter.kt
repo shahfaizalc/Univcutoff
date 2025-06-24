@@ -1,4 +1,4 @@
-package com.faikan.univcutoff.adapters
+package com.faikan.univcounselling.adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,8 +7,8 @@ import android.widget.Filter
 import android.widget.Filterable
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.faikan.univcutoff.R
-import com.faikan.univcutoff.model.CollegeData
+import com.faikan.univcounselling.R
+import com.faikan.univcounselling.model.CollegeData
 import java.util.ArrayList
 import java.util.Locale
 

@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace 'com.faikan.univcutoff'
+    namespace 'com.faikan.univcounselling'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.faikan.univcutoff"
+        applicationId "com.faikan.univcounselling"
         minSdk 21
         targetSdk 35
-        versionCode 7
-        versionName "1.6"
+        versionCode 2
+        versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

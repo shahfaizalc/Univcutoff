@@ -1,4 +1,4 @@
-package com.faikan.univcutoff.model
+package com.faikan.univcounselling.model
 
 data class CollegeData(
     var collegeCode: Int,

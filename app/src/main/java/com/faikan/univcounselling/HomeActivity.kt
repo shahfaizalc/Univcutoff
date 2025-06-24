@@ -1,4 +1,4 @@
-package com.faikan.univcutoff
+package com.faikan.univcounselling
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,7 +8,6 @@ import android.view.View
 import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.appcompat.widget.Toolbar
 import androidx.cardview.widget.CardView
 import com.facebook.ads.Ad
 import com.facebook.ads.AdError
@@ -16,6 +15,7 @@ import com.facebook.ads.AdListener
 import com.facebook.ads.AdSize
 import com.facebook.ads.AdView
 import com.facebook.ads.AudienceNetworkAds
+import com.faikan.univcounselling.R
 
 
 class HomeActivity : AppCompatActivity() {

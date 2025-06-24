@@ -1,11 +1,9 @@
-package com.faikan.univcutoff
+package com.faikan.univcounselling
 
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.util.Log
-import android.view.View
-import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
@@ -23,9 +21,9 @@ import com.facebook.ads.AudienceNetworkAds
 import com.facebook.ads.CacheFlag.ALL
 import com.facebook.ads.InterstitialAd
 import com.facebook.ads.InterstitialAdListener
-import com.faikan.univcutoff.R
-import com.faikan.univcutoff.data.DataManager
-import com.faikan.univcutoff.model.FilterOptions
+import com.faikan.univcounselling.R
+import com.faikan.univcounselling.data.DataManager
+import com.faikan.univcounselling.model.FilterOptions
 import androidx.appcompat.widget.SwitchCompat
 
 class FilterActivity : AppCompatActivity() {

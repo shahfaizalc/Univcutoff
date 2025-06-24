@@ -45,7 +45,7 @@
         android:layout_marginBottom="16dp"
         android:layout_weight="1">
 
-        <com.faikan.univcutoff.ZoomableImageView
+        <com.faikan.univcounselling.ZoomableImageView
             android:id="@+id/image_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

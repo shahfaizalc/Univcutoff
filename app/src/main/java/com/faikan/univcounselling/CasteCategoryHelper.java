@@ -1,4 +1,4 @@
-package com.faikan.univcutoff;
+package com.faikan.univcounselling;
 
 /**
  * Helper class to manage caste category conversions between display names and codes

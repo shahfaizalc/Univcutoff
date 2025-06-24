@@ -1,10 +1,10 @@
-package com.faikan.univcutoff.data
+package com.faikan.univcounselling.data
 
 import android.content.Context
 import android.util.Log
-import com.faikan.univcutoff.R
-import com.faikan.univcutoff.model.CollegeData
-import com.faikan.univcutoff.model.FilterOptions
+import com.faikan.univcounselling.R
+import com.faikan.univcounselling.model.CollegeData
+import com.faikan.univcounselling.model.FilterOptions
 import org.json.JSONArray
 import org.json.JSONException
 import org.json.JSONObject

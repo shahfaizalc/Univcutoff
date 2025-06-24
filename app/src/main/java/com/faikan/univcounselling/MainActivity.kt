@@ -1,4 +1,4 @@
-package com.faikan.univcutoff
+package com.faikan.univcounselling
 
 import android.content.Intent
 import android.os.Bundle
@@ -12,20 +12,19 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.faikan.univcutoff.adapters.CollegeAdapter
-import com.faikan.univcutoff.data.DataManager
+import com.faikan.univcounselling.adapters.CollegeAdapter
+import com.faikan.univcounselling.data.DataManager
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.facebook.ads.Ad
 import com.facebook.ads.AdError
 import com.facebook.ads.AdListener
-import com.facebook.ads.AdSettings
 import com.facebook.ads.AdSize
 import com.facebook.ads.AdView
 import com.facebook.ads.AudienceNetworkAds
 import com.facebook.ads.CacheFlag.ALL
 import com.facebook.ads.InterstitialAd
 import com.facebook.ads.InterstitialAdListener
-import com.faikan.univcutoff.R
+import com.faikan.univcounselling.R
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,10 +1,11 @@
-package com.faikan.univcutoff
+package com.faikan.univcounselling
 
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
+import com.faikan.univcounselling.R
 
 
 class SplashActivity : AppCompatActivity() {

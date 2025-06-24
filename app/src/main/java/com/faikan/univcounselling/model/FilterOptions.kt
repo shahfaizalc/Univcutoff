@@ -1,4 +1,4 @@
-package com.faikan.univcutoff.model
+package com.faikan.univcounselling.model
 
 class FilterOptions {
     var year: Int = 2024 // Default year

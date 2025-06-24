@@ -1,10 +1,10 @@
-package com.faikan.univcutoff
+package com.faikan.univcounselling
 
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.RadioGroup
 import androidx.appcompat.app.AppCompatActivity
+import com.faikan.univcounselling.R
 
 
 class ImportantDatesActivity : AppCompatActivity() {
