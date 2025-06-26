@@ -4,8 +4,14 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import android.text.Editable
+import android.text.TextWatcher
+import android.util.Log
 import android.view.Menu
+import android.view.MenuItem
 import android.view.View
+import android.widget.EditText
+import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.SearchView
 import android.widget.TextView
@@ -149,18 +155,107 @@ class MainActivity : AppCompatActivity() {
         menuInflater.inflate(R.menu.main_menu, menu)
         val searchItem = menu.findItem(R.id.action_search)
         val searchView = searchItem.actionView as SearchView?
-        searchView!!.queryHint ="College Name, District"
+        searchView!!.queryHint = "College Name, District"
 
-        searchView!!.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+        // Track if search is currently active
+        var isSearchActive = false
+
+        // IMPORTANT: Add an ID tag to the SearchView to track state changes
+        searchView.id = View.generateViewId()
+
+        // Try to get the EditText inside SearchView to monitor text changes directly
+        val searchEditText = searchView.findViewById<EditText>(
+            searchView.context.resources.getIdentifier("android:id/search_src_text", null, null)
+        )
+
+        // Add a TextWatcher to detect when text is cleared
+        searchEditText?.addTextChangedListener(object : TextWatcher {
+            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
+
+            override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
+                // If text changed from something to empty
+                if (before > 0 && (s == null || s.isEmpty())) {
+                    // Text was cleared, reset the filter
+                    adapter?.resetFilter()
+                    updateNoDataVisibility()
+                }
+            }
+
+            override fun afterTextChanged(s: Editable?) {}
+        })
+
+        // Use the existing onQueryTextListener but add special handling for empty query
+        searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
             override fun onQueryTextSubmit(query: String): Boolean {
                 return false
             }
 
             override fun onQueryTextChange(newText: String): Boolean {
+                isSearchActive = newText.isNotEmpty()
+
+                // If text is empty, explicitly reset
+                if (newText.isEmpty()) {
+                    adapter?.resetFilter()
+                    updateNoDataVisibility()
+                    return true
+                }
+
+                // Apply the filter for non-empty text
                 adapter!!.filter.filter(newText)
+
+                // Update UI based on filter results
+                if (adapter!!.itemCount == 0 && !newText.isBlank()) {
+                    tvNoData!!.text = "No colleges found matching: \"$newText\""
+                    recyclerView!!.visibility = View.GONE
+                    tvNoData!!.visibility = View.VISIBLE
+                } else if (adapter!!.itemCount == 0) {
+                    tvNoData!!.text = "No colleges match your criteria"
+                    recyclerView!!.visibility = View.GONE
+                    tvNoData!!.visibility = View.VISIBLE
+                } else {
+                    recyclerView!!.visibility = View.VISIBLE
+                    tvNoData!!.visibility = View.GONE
+                }
+
                 return true
             }
         })
+
+        // Set a focus change listener to detect when search loses focus
+        searchView.setOnQueryTextFocusChangeListener { _, hasFocus ->
+            if (!hasFocus && !isSearchActive) {
+                // If search loses focus and no text, reset
+                adapter?.resetFilter()
+                updateNoDataVisibility()
+            }
+        }
+
+        // Direct access to close button with fallback IDs
+        try {
+            val closeButtonIds = arrayOf(
+                "android:id/search_close_btn",
+                "android:id/search_mag_icon",
+                "android:id/search_button"
+            )
+
+            var closeButton: View? = null
+            for (id in closeButtonIds) {
+                closeButton = searchView.findViewById<View>(
+                    searchView.context.resources.getIdentifier(id, null, null)
+                )
+                if (closeButton != null) break
+            }
+
+            closeButton?.setOnClickListener {
+                // Clear query
+                searchView.setQuery("", false)
+                // Force reset
+                adapter?.resetFilter()
+                updateNoDataVisibility()
+            }
+        } catch (e: Exception) {
+            // Fallback if we can't find the close button
+        }
 
         return true
     }
@@ -193,8 +288,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     private fun updateNoDataVisibility() {
+        if (adapter == null) return
         if (adapter!!.itemCount == 0) {
             recyclerView!!.visibility = View.GONE
             tvNoData!!.visibility = View.VISIBLE
