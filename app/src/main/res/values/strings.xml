@@ -22,15 +22,16 @@
         <item>Most Backward Class (MBC)</item>
         <item>Scheduled Caste (SC)</item>
         <item>Scheduled Caste Arunthathiyar (SCA)</item>
+        <item>Scheduled Tribes (ST)</item>
     </string-array>
 
-    <string name="banner_main_footer">24693952633527796_24725361303720262</string>
-    <string name="banner_main_top">24693952633527796_24725366147053111</string>
-    <string name="banner_home_footer">24693952633527796_24748422221414170</string>
-    <string name="banner_home_top">24693952633527796_24748426184747107</string>
-    <string name="banner_filter_top">24693952633527796_24725368630386196</string>
-    <string name="banner_filter_footer">24693952633527796_24725371233719269</string>
-    <string name="interstitial_full_screen">24693952633527796_24725374190385640</string>
-    <string name="interstitial_full_screen2">24693952633527796_24725376290385430</string>
+    <string name="banner_main_footer">1494871055213276_1494873268546388</string>
+    <string name="banner_main_top">1494871055213276_1494874458546269</string>
+    <string name="banner_home_footer">1494871055213276_1494875161879532</string>
+    <string name="banner_home_top">1494871055213276_1494875451879503</string>
+    <string name="banner_filter_top">1494871055213276_1494875875212794</string>
+    <string name="banner_filter_footer">1494871055213276_1494876305212751</string>
+    <string name="interstitial_full_screen">1494871055213276_1494877088546006</string>
+    <string name="interstitial_full_screen2">1494871055213276_1494877275212654</string>
 
 </resources>
